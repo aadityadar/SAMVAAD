@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Seminar in Applied Microeconomics - Virtual Assembly and Discussion (SAMVAAD)
 
-You can use the [editor on GitHub](https://github.com/aadityadar/samvaad/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. The online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Format:
+Speakers will have 45 mins to present their research, followed by 30 mins of Q&A. While the speaker is presenting, only clarifying questions may be asked in the chat window. Co-authors should feel free to answer questions in the chat and if a question is unanswered (or if there is no co-author), the moderator will interject the presenter to ask the question. After the presentation is over, the floor will be open for Q&A. Participants are requested to use the ‘raise hand’ feature on Zoom to queue up for comments.
 
-### Markdown
+###Registration:
+Attendance is capped at 300 so please only sign up here only if you can attend   regularly https://forms.gle/JsXhRoNskxuKQuk59 Space constraints and lack of an allocation mechanism unfortunately imply that preference will be given to faculty over grad students. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Invites:
+The link to the webinar will be shared with registered participants 2 hours before the talk. To prevent ‘zoombombing’, please do not share the invitation link or post it online.
 
-```markdown
-Syntax highlighted code block
+###Scheduling:
+If you would like to present your research, please sign up here  https://docs.google.com/spreadsheets/d/1HdFa97ikQ3qAHz_ABNoNZpOiUIupURQCR6ydVReXD40/edit?usp=sharing We request you to only present projects that are at an advanced stage.
 
-# Header 1
-## Header 2
-### Header 3
+Note: The online seminar is not recorded, is invite-only and not open to the public. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aadityadar/samvaad/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please email Sabyasachi Das <sabya.economist@gmail.com> or Aaditya Dar  <aadityadar@gmail.com> in case you have any questions or suggestions. 
