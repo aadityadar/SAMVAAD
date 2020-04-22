@@ -8,8 +8,19 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 - _Invites:_ The link to the webinar will be shared with registered participants 2 hours before the talk. To prevent ‘zoombombing’, please do not share the invitation link or post it online.
 
-- _Scheduling:_ If you would like to present your research, please [sign up here](https://docs.google.com/spreadsheets/d/1HdFa97ikQ3qAHz_ABNoNZpOiUIupURQCR6ydVReXD40/edit?usp=sharing) We request you to only present projects that are at an advanced stage. Although only a title and abstract are circulated to participants, sharing a copy of the working paper is encouraged. 
+- _Scheduling:_ If you would like to present your research, please contact the organizers below. We request you to only present projects that are at an advanced stage. Although only a title and abstract are circulated to participants, sharing a copy of the working paper is encouraged. 
 
 Note: The online seminar is not recorded, is invite-only and not open to the public. 
 
 Please email [Sabyasachi Das](mailto:sabya.economist@gmail.com) or [Aaditya Dar](mailto:aadityadar@gmail.com) in case you have any questions or suggestions. 
+
+## Upcoming SAMVAAD
+
+| Date		| Speaker 				| Affiliation 		|
+| -----		| ------------			| ------------		|
+| May 1 	| Garima Agarwal 		| DSE 				|
+| May 8 	| Tanika Chakraborty 	| IIM Calcutta 		|
+| May 15 	| Abhiroop Mukhopadhyay | ISI Delhi 		|
+| May 22 	| Sugata Bag 			| DSE 				|
+| May 29 	| Prachi Singh 			| Brookings India 	|
+| June 5 	| Vidhya Soundararajan 	| IIM Bangalore		|
