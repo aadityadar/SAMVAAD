@@ -1,4 +1,4 @@
-## Seminar in Applied Microeconomics - Virtual Assembly and Discussion (SAMVAAD)
+## Seminar in Applied Microeconomics - Virtual Assembly and Discussion 
 
 SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. The online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM.
 
