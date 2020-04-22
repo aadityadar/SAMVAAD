@@ -19,8 +19,8 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
 | May 1 | Garima Agarwal (DSE) | Improving school attendance for adolescent girls - Evidence from a policy experiment in Delhi's public schools |
-| May 8 | Tanika Chakraborty (IIM Calcutta) | TBD | 
-| May 15 | Abhiroop Mukhopadhyay (ISI Delhi) | TBD |
-| May 22 | Sugata Bag (DSE) | Causes of low labour force participation of married women in India: Conservative culture, spousal education gap and structural factors |
-| May 29 | Prachi Singh (Brookings) | Information campaign on water quality and marriage market: The case of arsenic exposure in rural Bangladesh | 
-| Jun 5 | Vidhya Soundararajan (IIM Bangalore) | TBD |
+| May 8 | [Tanika Chakraborty](https://www.iimcal.ac.in/users/tanika) (IIM Calcutta) | TBD | 
+| May 15 | [Abhiroop Mukhopadhyay](https://sites.google.com/site/axm359/) (ISI Delhi) | TBD |
+| May 22 | [Sugata Bag](http://econdse.org/sugata/) (DSE) | Causes of low labour force participation of married women in India: Conservative culture, spousal education gap and structural factors |
+| May 29 | [Prachi Singh](https://sites.google.com/view/prachieco) (Brookings) | Information campaign on water quality and marriage market: The case of arsenic exposure in rural Bangladesh | 
+| Jun 5 | [Vidhya Soundararajan](https://www.iimb.ac.in/user/141/vidhya-soundararajan) (IIM Bangalore) | TBD |
