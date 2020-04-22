@@ -2,9 +2,9 @@
 
 SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. The online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM. 
 
-- _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of Q&A, in the spirit of having an open dialogue and discussion. 
+- _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
   - While the speaker is presenting, only clarifying questions may be asked in the chat window. Co-authors should feel free to answer questions in the chat and if a question is unanswered (or if there is no co-author), the moderator will interject the presenter to ask the question. 
-  - After the presentation is over, the floor will be open for Q&A. Participants are requested to use the ‘raise hand’ feature on Zoom to queue up for comments.
+  - After the presentation is over, the floor will be open for comments. Participants are requested to use the ‘raise hand’ feature on Zoom to queue up for comments.
 
 - _Registration:_ Attendance is capped at 300 so please only [sign up](https://forms.gle/JsXhRoNskxuKQuk59) only if you can attend regularly. Space constraints imply that preference will be given to faculty over graduate students.
 
