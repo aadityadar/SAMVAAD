@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: SAMVAAD
-# title: संवाद 
+is_project_page : false
 logo: assets/img/samvaad.png
