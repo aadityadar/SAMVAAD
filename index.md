@@ -18,7 +18,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| May 1 | Garima Agarwal (DSE) | Improving school attendance for adolescent girls - Evidence from a policy experiment in Delhi's public schools |
+| May 1 | [Garima Agarwal](https://sites.google.com/view/garima-agarwal) (DSE) | [Improving school attendance for adolescent girls - Evidence from a policy experiment in Delhi's public schools](https://www.isid.ac.in/~epu/acegd2018/papers/GarimaAgarwal.pdf) |
 | May 8 | [Tanika Chakraborty](https://www.iimcal.ac.in/users/tanika) (IIM Calcutta) | TBD | 
 | May 15 | [Abhiroop Mukhopadhyay](https://sites.google.com/site/axm359/) (ISI Delhi) | TBD |
 | May 22 | [Sugata Bag](http://econdse.org/sugata/) (DSE) | Causes of low labour force participation of married women in India: Conservative culture, spousal education gap and structural factors |
