@@ -25,4 +25,4 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | May 29 | [Prachi Singh](https://sites.google.com/view/prachieco) (Brookings) | Information campaign on water quality and marriage market: The case of arsenic exposure in rural Bangladesh | 
 | Jun 5 | [Vidhya Soundararajan](https://www.iimb.ac.in/user/141/vidhya-soundararajan) (IIM Bangalore) | TBD |
 | Jun 12| [Sudha Narayanan](http://www.igidr.ac.in/staff/sudha-narayanan/) | TBD |
-| Jun 19| [PKV Kishan](https://irma.ac.in/faculty-research/faculty-members/446) (IRMA) | Bicycle as a Vehicle of Change? Long Term Evidence from an Innovative Cycle Program in India (joint with Ambrish Dongre) |
+| Jun 19| [PKV Kishan](https://irma.ac.in/faculty-research/faculty-members/446) (IRMA) | Bicycle as a Vehicle of Change? Long Term Evidence from an Innovative Cycle Program in India (joint with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre)) |
