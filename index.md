@@ -26,4 +26,4 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | Jun 5 | [Vidhya Soundararajan](https://www.iimb.ac.in/user/141/vidhya-soundararajan) (IIM Bangalore) | TBD |
 | Jun 12| [Sudha Narayanan](http://www.igidr.ac.in/staff/sudha-narayanan/) (IGIDR) | TBD |
 | Jun 19| [PKV Kishan](https://irma.ac.in/faculty-research/faculty-members/446) (IRMA) | Bicycle as a Vehicle of Change? Long Term Evidence from an Innovative Cycle Program in India (joint with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre)) |
-| Jun 26| [Dyotona Dasgupta](http://dyotona.weebly.com/) (DSE) | A Theory of Progressive Lending (joint with [Dilip Mookherjee](http://people.bu.edu/dilipm/) |
+| Jun 26| [Dyotona Dasgupta](http://dyotona.weebly.com/) (DSE) | A theory of progressive lending (joint with [Dilip Mookherjee](http://people.bu.edu/dilipm/) |
