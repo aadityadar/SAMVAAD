@@ -27,3 +27,4 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | Jun 12| [Sudha Narayanan](http://www.igidr.ac.in/staff/sudha-narayanan/) (IGIDR) | TBD |
 | Jun 19| [PKV Kishan](https://irma.ac.in/faculty-research/faculty-members/446) (IRMA) | Bicycle as a Vehicle of Change? Long Term Evidence from an Innovative Cycle Program in India (joint with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre)) |
 | Jun 26| [Dyotona Dasgupta](http://dyotona.weebly.com/) (DSE) | A theory of progressive lending (joint with [Dilip Mookherjee](http://people.bu.edu/dilipm/)) |
+| Jul 3 | [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh) (IIM Lucknow) | Women Empowerment and Domestic Violence: Evidence from a Multi-Dimensional Policy in India (joint with [Prashant Poddar](https://sites.google.com/view/prashantpoddar)) |
