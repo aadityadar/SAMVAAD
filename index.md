@@ -14,15 +14,9 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 - _Housekeeping:_ The webinar is not recorded and regrettably not open to the public either. We also request participants to not share findings of the paper without the explicit permission of the speaker. Finally, please keep your mic on mute and turn off your video when you join the Zoom meeting.
 
-<!---
-## Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata" style="border: 0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
--->
-
 ## Upcoming SAMVAADs
 
-[Add to Google Calendar (click on button on bottom left corner of calendar)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata)
+[Add to Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata)
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
