@@ -22,7 +22,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| May 15 | [Abhiroop Mukhopadhyay](https://sites.google.com/site/axm359/) (ISI Delhi) | TBD |
+| May 15 | [Abhiroop Mukhopadhyay](https://sites.google.com/site/axm359/) (ISI Delhi) | [Trust Thy Neighbour?: Evidence from Partition of India](https://drive.google.com/open?id=1SZlHJhIRjE8Av7R916ZoLseKf5p-O0tj) |
 | May 22 | [Sugata Bag](http://econdse.org/sugata/) (DSE) | Causes of low labour force participation of married women in India: Conservative culture, spousal education gap and structural factors |
 | May 29 | [Prachi Singh](https://sites.google.com/view/prachieco) (Brookings) | Information campaign on water quality and marriage market: The case of arsenic exposure in rural Bangladesh | 
 | Jun 5 | [Vidhya Soundararajan](https://www.iimb.ac.in/user/141/vidhya-soundararajan) (IIM Bangalore) | TBD |
