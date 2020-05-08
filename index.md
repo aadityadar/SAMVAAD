@@ -31,7 +31,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | Jun 26| [Dyotona Dasgupta](http://dyotona.weebly.com/) (DSE) | A theory of progressive lending (joint with [Dilip Mookherjee](http://people.bu.edu/dilipm/)) |
 | Jul 3 | [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh) (IIM Lucknow) | [Women empowerment and domestic violence: Evidence from a multi-dimensional policy in India](https://www.dropbox.com/s/qrfs6r2u9p9q5ds/SABLA_final_draft_18_2_2020.pdf?dl=0)  (joint with [Prashant Poddar](https://sites.google.com/view/prashantpoddar)) |
 
-## Past SAMVAAD
+## Past SAMVAADs
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
