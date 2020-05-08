@@ -2,6 +2,8 @@
 
 SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. 
 
+*Update*: Some prospective participants have requested to change the time for the seminar. Could you please take a moment to complete [this form](https://forms.gle/9dTQmTt5h7kynuG49) and share your preferences?
+
 - _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
   - While the speaker is presenting, only clarifying questions may be asked in the chat window. Co-authors should feel free to answer questions in the chat and if a question is unanswered (or if there is no co-author), the moderator will interject the presenter to ask the question. 
   - After the presentation is over, the floor will be open for the audience. Participants are requested to use the ‘raise hand’ feature on Zoom to queue up for comments.
@@ -20,7 +22,6 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| May 8 | [Tanika Chakraborty](https://www.iimcal.ac.in/users/tanika) (IIM Calcutta) | [Caste, Courts and Business](https://www.dropbox.com/s/0qbjshi7hzkp0jz/Abstract_Webinar_Tanika.pdf?dl=0) (joint with [Sarani Saha](https://www.iitk.ac.in/new/sarani-saha), Divya Shukla, [Anirban Mukherjee](https://sites.google.com/view/anirbanm/home)) | 
 | May 15 | [Abhiroop Mukhopadhyay](https://sites.google.com/site/axm359/) (ISI Delhi) | TBD |
 | May 22 | [Sugata Bag](http://econdse.org/sugata/) (DSE) | Causes of low labour force participation of married women in India: Conservative culture, spousal education gap and structural factors |
 | May 29 | [Prachi Singh](https://sites.google.com/view/prachieco) (Brookings) | Information campaign on water quality and marriage market: The case of arsenic exposure in rural Bangladesh | 
@@ -35,3 +36,4 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
 | May 1 | [Garima Agarwal](https://sites.google.com/view/garima-agarwal) (DSE) | [Improving school attendance for adolescent girls - Evidence from a policy experiment in Delhi's public schools](https://www.isid.ac.in/~epu/acegd2018/papers/GarimaAgarwal.pdf) |
+| May 8 | [Tanika Chakraborty](https://www.iimcal.ac.in/users/tanika) (IIM Calcutta) | [Caste, Courts and Business](https://www.dropbox.com/s/0qbjshi7hzkp0jz/Abstract_Webinar_Tanika.pdf?dl=0) (joint with [Sarani Saha](https://www.iitk.ac.in/new/sarani-saha), Divya Shukla, [Anirban Mukherjee](https://sites.google.com/view/anirbanm/home)) | 
