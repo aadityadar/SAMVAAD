@@ -30,7 +30,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | Jun 19| [PKV Kishan](https://irma.ac.in/faculty-research/faculty-members/446) (IRMA) | Bicycle as a Vehicle of Change? Long Term Evidence from an Innovative Cycle Program in India (joint with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre)) |
 | Jun 26| [Dyotona Dasgupta](http://dyotona.weebly.com/) (DSE) | A theory of progressive lending (joint with [Dilip Mookherjee](http://people.bu.edu/dilipm/)) |
 | Jul 3 | [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh) (IIM Lucknow) | [Women empowerment and domestic violence: Evidence from a multi-dimensional policy in India](https://www.dropbox.com/s/qrfs6r2u9p9q5ds/SABLA_final_draft_18_2_2020.pdf?dl=0)  (joint with [Prashant Poddar](https://sites.google.com/view/prashantpoddar)) |
-| Jul 10 | Abhishek Dureja (IGIDR) | [Coping with the Consequences of Short-Term Illness Shocks: The Role of Intra-Household Labour Substitution](http://www.igidr.ac.in/pdf/publication/WP-2020-010.pdf) (joint with [Digvijay Negi](https://sites.google.com/view/digvijaysnegi/home)) |
+| Jul 10 | [Abhishek Dureja](https://sites.google.com/view/abhishekdureja) (IGIDR) | [Coping with the Consequences of Short-Term Illness Shocks: The Role of Intra-Household Labour Substitution](http://www.igidr.ac.in/pdf/publication/WP-2020-010.pdf) (joint with [Digvijay Negi](https://sites.google.com/view/digvijaysnegi/home)) |
 
 ## Past SAMVAADs
 
