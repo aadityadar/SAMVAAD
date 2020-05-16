@@ -22,7 +22,6 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| May 15 | [Abhiroop Mukhopadhyay](https://sites.google.com/site/axm359/) (ISI Delhi) | [Trust Thy Neighbour?: Evidence from Partition of India](https://drive.google.com/open?id=1SZlHJhIRjE8Av7R916ZoLseKf5p-O0tj) |
 | May 22 | [Sugata Bag](http://econdse.org/sugata/) (DSE) | Causes of low labour force participation of married women in India: Conservative culture, spousal education gap and structural factors |
 | May 29 | [Prachi Singh](https://sites.google.com/view/prachieco) (Brookings) | Information campaign on water quality and marriage market: The case of arsenic exposure in rural Bangladesh | 
 | Jun 5 | [Vidhya Soundararajan](https://www.iimb.ac.in/user/141/vidhya-soundararajan) (IIM Bangalore) | TBD |
@@ -38,3 +37,4 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | ---- | ------- | ----- | 
 | May 1 | [Garima Agarwal](https://sites.google.com/view/garima-agarwal) (DSE) | [Improving school attendance for adolescent girls - Evidence from a policy experiment in Delhi's public schools](https://www.isid.ac.in/~epu/acegd2018/papers/GarimaAgarwal.pdf) |
 | May 8 | [Tanika Chakraborty](https://www.iimcal.ac.in/users/tanika) (IIM Calcutta) | [Caste, Courts and Business](https://www.dropbox.com/s/0qbjshi7hzkp0jz/Abstract_Webinar_Tanika.pdf?dl=0) (joint with [Sarani Saha](https://www.iitk.ac.in/new/sarani-saha), Divya Shukla, [Anirban Mukherjee](https://sites.google.com/view/anirbanm/home)) | 
+| May 15 | [Abhiroop Mukhopadhyay](https://sites.google.com/site/axm359/) (ISI Delhi) | [Trust Thy Neighbour?: Evidence from Partition of India](https://drive.google.com/open?id=1SZlHJhIRjE8Av7R916ZoLseKf5p-O0tj) |
