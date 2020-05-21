@@ -22,7 +22,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| May 22 | [Sugata Bag](http://econdse.org/sugata/) (DSE) | Causes of low labour force participation of married women in India: Conservative culture, spousal education gap and structural factors |
+| May 22 | [Sugata Bag](http://econdse.org/sugata/) (DSE) | [Causes of low labour force participation of married women in India: Conservative culture, spousal education gap and structural factors](https://www.dropbox.com/s/mk8xihiou3z03jl/Samvad%20-S%20Bag%20-%20FLFP%20Culture.pdf?dl=0) |
 | May 29 | [Prachi Singh](https://sites.google.com/view/prachieco) (Brookings) | [Information campaign on water quality and marriage market: The case of arsenic exposure in rural Bangladesh](https://drive.google.com/file/d/1ZpA_KHr4Vjw0BOCtUu52482QlPLWMlpd/view) (joint with [Shyamal Chowdhury](https://www.sydney.edu.au/arts/about/our-people/academic-staff/shyamal-chowdhury.html)) | 
 | Jun 5 | [Vidhya Soundararajan](https://www.iimb.ac.in/user/141/vidhya-soundararajan) (IIM Bangalore) | TBD |
 | Jun 12| [Renuka Sane](http://www.saner.org.in) (NIPFP) | [The Effect of Product-Specific Financial Education on Purchase Decision](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3519845) (joint with [Olga Balakina](https://sites.google.com/view/olgabalakina/home), [Vimal Balasubmraniam](http://atvariance.in/vimalb/) and [Aditi Dimri](https://sites.google.com/site/aditidimri/cv?authuser=0))|
