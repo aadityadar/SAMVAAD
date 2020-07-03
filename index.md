@@ -20,7 +20,6 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| Jul 3 | [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh) (IIM Lucknow) | [Women empowerment and domestic violence: Evidence from a multi-dimensional policy in India](https://www.dropbox.com/s/qrfs6r2u9p9q5ds/SABLA_final_draft_18_2_2020.pdf?dl=0)  (joint with [Prashant Poddar](https://sites.google.com/view/prashantpoddar)) |
 | Jul 10 | [Abhishek Dureja](https://sites.google.com/view/abhishekdureja) (IGIDR) | [Coping with the Consequences of Short-Term Illness Shocks: The Role of Intra-Household Labour Substitution](http://www.igidr.ac.in/pdf/publication/WP-2020-010.pdf) (joint with [Digvijay Negi](https://sites.google.com/view/digvijaysnegi/home)) |
 | Jul 17 | [Prasenjit Sarkhel](https://sites.google.com/view/prasenjitsarkhel) (University of Kalyani) | Does More Schooling Imply Improved Learning? Evidence from a Conditional Cash Transfer Program in India (joint with [Upasak Das](https://sites.google.com/site/upasakdas))
 
@@ -37,3 +36,4 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | Jun 12| [Renuka Sane](http://www.saner.org.in) (NIPFP) | [The Effect of Product-Specific Financial Education on Purchase Decision](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3519845) (joint with [Olga Balakina](https://sites.google.com/view/olgabalakina/home), [Vimal Balasubmraniam](http://atvariance.in/vimalb/) and [Aditi Dimri](https://sites.google.com/site/aditidimri/cv?authuser=0))|
 | Jun 19| [PKV Kishan](https://irma.ac.in/faculty-research/faculty-members/446) (IRMA) | [Bicycle as a Vehicle of Change? Long Term Evidence from an Innovative Cycle Program in India](https://drive.google.com/file/d/1vQGajW25Umf-IciUGSUKspwxOBLfJPAo/) (joint with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre)) |
 | Jun 26| [Dyotona Dasgupta](http://dyotona.weebly.com/) | [A theory of progressive lending](http://dyotona.weebly.com/uploads/4/3/8/7/43875639/dasguptamookherjee_june2020v8.pdf) (joint with [Dilip Mookherjee](http://people.bu.edu/dilipm/)) |
+| Jul 3 | [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh) (IIM Lucknow) | [Women empowerment and domestic violence: Evidence from a multi-dimensional policy in India](https://www.dropbox.com/s/qrfs6r2u9p9q5ds/SABLA_final_draft_18_2_2020.pdf?dl=0)  (joint with [Prashant Poddar](https://sites.google.com/view/prashantpoddar)) |
