@@ -20,7 +20,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| Jul 10 | [Abhishek Dureja](https://sites.google.com/view/abhishekdureja) (IGIDR) | [Coping with the Consequences of Short-Term Illness Shocks: The Role of Intra-Household Labour Substitution](http://www.igidr.ac.in/pdf/publication/WP-2020-010.pdf) (joint with [Digvijay Negi](https://sites.google.com/view/digvijaysnegi/home)) |
+| Jul 10 | [Abhishek Dureja](https://sites.google.com/view/abhishekdureja) (IGIDR) | [Smoothing Consumption during Short-Term Illness Shocks] (joint with [Digvijay Negi](https://sites.google.com/view/digvijaysnegi/home)) |
 | Jul 17 | [Prasenjit Sarkhel](https://sites.google.com/view/prasenjitsarkhel) (University of Kalyani) | Does More Schooling Imply Improved Learning? Evidence from a Conditional Cash Transfer Program in India (joint with [Upasak Das](https://sites.google.com/site/upasakdas))
 
 ## Past SAMVAADs
