@@ -1,6 +1,6 @@
 ## Seminar in Applied Microeconomics - Virtual Assembly and Discussion 
 
-SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. 
+SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD will conclude on July 24. 
 
 - _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
   - While the speaker is presenting, only clarifying questions may be asked in the chat window. Co-authors should feel free to answer questions in the chat and if a question is unanswered (or if there is no co-author), the moderator will interject the presenter to ask the question. 
@@ -10,7 +10,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 - _Admits:_ Registered participants are automatically placed in a waiting room when they join the seminar. Moderators begin to admit participants only 5 mins before start of the seminar. If you join after 9:55 AM, please wait for a couple of minutes for the moderators to let you in.
 
-- _Scheduling:_ If you would like to present your research, please email the organizers ([Sabyasachi Das](mailto:sabya.economist@gmail.com) or [Aaditya Dar](mailto:aadityadar@gmail.com)). We request you to only present projects that are at an advanced stage; sharing a copy of the working paper is highly encouraged. 
+- _Scheduling:_ If you would like to present your research, please email the organizers ([Sabyasachi Das](mailto:sabya.economist@gmail.com) or [Aaditya Dar](mailto:aadityadar@gmail.com)) with a copy of the working paper. We request you to only present projects that are at an advanced stage.
 
 - _Housekeeping:_ The webinar is not recorded and regrettably not open to the public either. We also request participants to not share findings of the paper without the explicit permission of the speaker. Finally, please keep your mic on mute and turn off your video when you join the Zoom meeting.
 
@@ -20,7 +20,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| Jul 17 | [Prasenjit Sarkhel](https://sites.google.com/view/prasenjitsarkhel) (University of Kalyani) | Does More Schooling Imply Improved Learning? Evidence from a Conditional Cash Transfer Program in India (joint with [Upasak Das](https://sites.google.com/site/upasakdas))
+| Jul 17 | [Prasenjit Sarkhel](https://sites.google.com/view/prasenjitsarkhel) (University of Kalyani) | [Does More Schooling Imply Improved Learning? Evidence from a Conditional Cash Transfer Program in India](https://www.dropbox.com/s/7k2zlwjbtt32uxh/SAMVAAD_KP_UD_PS.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas))
 
 ## Past SAMVAADs
 
