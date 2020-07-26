@@ -1,6 +1,6 @@
 ## Seminar in Applied Microeconomics - Virtual Assembly and Discussion 
 
-SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD concluded on July 24, 2020. Going forward, SAMVAADs will be conducted once a month.
+SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars were conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD concluded on July 24, 2020. Going forward, SAMVAADs will be conducted once a month.
 
 - _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
   - While the speaker is presenting, only clarifying questions may be asked in the chat window. Co-authors should feel free to answer questions in the chat and if a question is unanswered (or if there is no co-author), the moderator will interject the presenter to ask the question. 
@@ -8,7 +8,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 - _Registration and invites:_ Attendance is capped at 300 so please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) only if you can attend regularly. The link to the webinar will be shared with registered participants 2 hours before the talk. To prevent ‘zoombombing’, please do not share the invitation link or post it online. (However, please feel free to share the link to the [sign up page](https://forms.gle/JsXhRoNskxuKQuk59)). 
 
-- _Admits:_ Registered participants are automatically placed in a waiting room when they join the seminar. Moderators begin to admit participants only 5 mins before start of the seminar. If you join after 9:55 AM, please wait for a couple of minutes for the moderators to let you in.
+- _Admits:_ Registered participants are automatically placed in a waiting room when they join the seminar. Moderators begin to admit participants only 5 mins before start of the seminar. <!--- If you join after 9:55 AM, please wait for a couple of minutes for the moderators to let you in. -->
 
 <!--- - _Scheduling:_ Presentations are invite only. -->
 
