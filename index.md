@@ -14,7 +14,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 - _Housekeeping:_ The webinar is not recorded and regrettably not open to the public either. We also request participants to not share findings of the paper without the explicit permission of the speaker. Finally, please keep your mic on mute and turn off your video when you join the Zoom meeting.
 
-- _Got questions?:_ If you have any questions, please email the organizers ([Sabyasachi Das](mailto:sabya.economist@gmail.com) or [Aaditya Dar](mailto:aadityadar@gmail.com)).
+- _Got questions?_ If you have any questions/clarifications, please email the organizers ([Sabyasachi Das](mailto:sabya.economist@gmail.com) or [Aaditya Dar](mailto:aadityadar@gmail.com)).
 
 ## Upcoming SAMVAADs
 
