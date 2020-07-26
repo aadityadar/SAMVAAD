@@ -1,6 +1,6 @@
 ## Seminar in Applied Microeconomics - Virtual Assembly and Discussion 
 
-SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD will conclude on July 24, 2020.
+SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars will be conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD concluded on July 24, 2020. Going forward, SAMVAADs will be conducted once a month.
 
 - _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
   - While the speaker is presenting, only clarifying questions may be asked in the chat window. Co-authors should feel free to answer questions in the chat and if a question is unanswered (or if there is no co-author), the moderator will interject the presenter to ask the question. 
@@ -10,9 +10,11 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 - _Admits:_ Registered participants are automatically placed in a waiting room when they join the seminar. Moderators begin to admit participants only 5 mins before start of the seminar. If you join after 9:55 AM, please wait for a couple of minutes for the moderators to let you in.
 
-- _Scheduling:_ If you would like to present your research, please email the organizers ([Sabyasachi Das](mailto:sabya.economist@gmail.com) or [Aaditya Dar](mailto:aadityadar@gmail.com)) with a copy of the working paper. We request you to only present projects that are at an advanced stage.
+<!--- - _Scheduling:_ Presentations are invite only. -->
 
 - _Housekeeping:_ The webinar is not recorded and regrettably not open to the public either. We also request participants to not share findings of the paper without the explicit permission of the speaker. Finally, please keep your mic on mute and turn off your video when you join the Zoom meeting.
+
+- _Got questions?:_ If you have any questions, please email the organizers ([Sabyasachi Das](mailto:sabya.economist@gmail.com) or [Aaditya Dar](mailto:aadityadar@gmail.com)).
 
 ## Upcoming SAMVAADs
 
@@ -20,7 +22,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| Jul 24 | Kaushal Kishore (IISER, Bhopal) | [Dynamic Tax Competition, Home Bias and the gain from Non-preferential Taxation Regimes: A case for unilateral commitment](https://www.dropbox.com/s/65g853rvwzehmwm/JPET_Revision_one_Dynamic%20Tac%20Competition.pdf?dl=0)
+| No upcoming webinars |
 
 ## Past SAMVAADs
 
@@ -38,3 +40,4 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | Jul 3 | [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh) (IIM Lucknow) | [Women empowerment and domestic violence: Evidence from a multi-dimensional policy in India](https://www.dropbox.com/s/qrfs6r2u9p9q5ds/SABLA_final_draft_18_2_2020.pdf?dl=0)  (joint with [Prashant Poddar](https://sites.google.com/view/prashantpoddar)) |
 | Jul 10 | [Abhishek Dureja](https://sites.google.com/view/abhishekdureja) (IGIDR) | [Smoothing Consumption in Times of Sickness: Households Recourse Mechanisms](https://www.dropbox.com/s/w5dxsgb5qi16vja/Abstract.pdf?dl=0) (joint with [Digvijay Negi](https://sites.google.com/view/digvijaysnegi/home)) |
 | Jul 17 | [Prasenjit Sarkhel](https://sites.google.com/view/prasenjitsarkhel) (University of Kalyani) | [Does More Schooling Imply Improved Learning? Evidence from a Conditional Cash Transfer Program in India](https://www.dropbox.com/s/7k2zlwjbtt32uxh/SAMVAAD_KP_UD_PS.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas))
+| Jul 24 | Kaushal Kishore (IISER, Bhopal) | [Dynamic Tax Competition, Home Bias and the gain from Non-preferential Taxation Regimes: A case for unilateral commitment](https://www.dropbox.com/s/65g853rvwzehmwm/JPET_Revision_one_Dynamic%20Tac%20Competition.pdf?dl=0)
