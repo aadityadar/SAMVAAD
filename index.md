@@ -20,9 +20,19 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 [Add to Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata)
 
-| Date | Speaker | Paper |
-| ---- | ------- | ----- | 
-| The seminar schedule will be updated shortly.|
+<!--- | Date | Speaker | Paper | -->
+<!--- | ---- | ------- | ----- | -->
+
+<table>
+  <tr>
+    <td>Date</td>
+    <td>Speaker</td>
+    <td>Paper</td>
+  </tr>
+  <tr>
+    <td colspan="3">July 26 update: The seminar schedule will be updated soon</td>
+  </tr>
+</table>
 
 ## Past SAMVAADs
 
