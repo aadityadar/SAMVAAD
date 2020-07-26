@@ -30,7 +30,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
     <td>Paper</td>
   </tr>
   <tr>
-    <td colspan="3">July 26 update: The seminar schedule will be updated soon</td>
+    <td colspan="3">Update as on July 26: The seminar schedule will be shared soon</td>
   </tr>
 </table>
 
