@@ -2,7 +2,7 @@
 
 SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars were conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD concluded on July 24, 2020. Going forward, SAMVAADs will be conducted once a month in association with [Society for Economic Research in India (SERI)](http://seri-india.org/).
 
-## Upcoming SAMVAADs
+### Upcoming SAMVAADs
 
 [Add to Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata)
 
@@ -10,7 +10,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 | ---- | ------- | ----- | 
 | Sep 12 | [Anindya Chakrabarti](https://sites.google.com/site/homepageasc/home) (IIM Ahmedabad) | [Science, Pathogenic Outbreak & Market Structure: Evidence from the 2010 NDM-1 Superbug Discovery & Indian Antibiotics Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660454) (joint with [Mayank Aggarwal](https://scholar.google.co.in/citations?user=kaQs83MAAAAJ&hl=en) and [Chirantan Chatterjee](https://www.chirantanchatterjee.com/)) |
 
-## Webinar details 
+### Details 
 
 - _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
   - While the speaker is presenting, only clarifying questions may be asked in the chat window. Co-authors should feel free to answer questions in the chat and if a question is unanswered (or if there is no co-author), the moderator will interject the presenter to ask the question. 
@@ -42,7 +42,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 </table>
 -->
 
-## Past SAMVAADs
+### Past SAMVAADs
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
