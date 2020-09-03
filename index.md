@@ -38,7 +38,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
-| Sep 12 | [Anindya Chakrabarti](https://sites.google.com/site/homepageasc/home) | [Science, Pathogenic Outbreak & Market Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660454) |
+| Sep 12 | [Anindya Chakrabarti](https://sites.google.com/site/homepageasc/home) | [Science, Pathogenic Outbreak & Market Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660454) (joint with [Mayank Aggarwal](https://scholar.google.co.in/citations?user=kaQs83MAAAAJ&hl=en) and [Chirantan Chatterjee](https://www.chirantanchatterjee.com/) |
 
 ## Past SAMVAADs
 
