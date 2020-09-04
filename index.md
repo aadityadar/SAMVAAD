@@ -4,7 +4,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 ### Upcoming SAMVAADs
 
-[Add to Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata)
+To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) for the mailing list. You can also [add the Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata).
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
