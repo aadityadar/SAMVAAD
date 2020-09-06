@@ -6,9 +6,9 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) for the mailing list. You can also [add the Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata).
 
-| Date | Speaker | Paper |
-| ---- | ------- | ----- | 
-| Sep 12 | [Anindya Chakrabarti](https://sites.google.com/site/homepageasc/home) (IIM Ahmedabad) | [Science, Pathogenic Outbreak & Market Structure: Evidence from the 2010 NDM-1 Superbug Discovery & Indian Antibiotics Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660454) (joint with [Mayank Aggarwal](https://scholar.google.co.in/citations?user=kaQs83MAAAAJ&hl=en) and [Chirantan Chatterjee](https://www.chirantanchatterjee.com/)) |
+| Date | Time |  Speaker | Paper |
+| ---- | ---- |  ------- | ----- | 
+| Sep 12 | 5 PM IST | [Anindya Chakrabarti](https://sites.google.com/site/homepageasc/home) (IIM Ahmedabad) | [Science, Pathogenic Outbreak & Market Structure: Evidence from the 2010 NDM-1 Superbug Discovery & Indian Antibiotics Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660454) (joint with [Mayank Aggarwal](https://scholar.google.co.in/citations?user=kaQs83MAAAAJ&hl=en) and [Chirantan Chatterjee](https://www.chirantanchatterjee.com/)) |
 
 ### Details 
 
