@@ -1,6 +1,6 @@
 ## Seminar in Applied Microeconomics - Virtual Assembly and Discussion 
 
-SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. Starting May 2020, the online seminars were conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD concluded on July 24, 2020. Going forward, SAMVAADs will be conducted once a month in association with [Society for Economic Research in India (SERI)](http://seri-india.org/).
+SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. The online online seminars are coordinated by [Sabyasachi Das](https://dassabyasachi.wordpress.com/) and [Aaditya Dar](http://aadityadar.com) and conducted once a month in association with [Society for Economic Research in India (SERI)](http://seri-india.org/).
 
 ### Upcoming SAMVAADs
 
@@ -45,6 +45,12 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 -->
 
 ### Past SAMVAADs
+
+#### Weekly edition 
+
+The weekly edition of SAMVAADs (conducted between May and July 2020) were held on Friday mornings from 10 AM to 11:15 AM IST.
+
+<!--- Starting May 2020, the online seminars were conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD concluded on July 24, 2020. Going forward, SAMVAADs will be conducted once a month in association with [Society for Economic Research in India (SERI)](http://seri-india.org/). -->
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
