@@ -8,7 +8,6 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
-| Sep 12 | 5 PM IST | [Anindya Chakrabarti](https://sites.google.com/site/homepageasc/home) (IIM Ahmedabad) | [Science, Pathogenic Outbreak & Market Structure: Evidence from the 2010 NDM-1 Superbug Discovery & Indian Antibiotics Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660454) (joint with [Mayank Aggarwal](https://scholar.google.co.in/citations?user=kaQs83MAAAAJ&hl=en) and [Chirantan Chatterjee](https://www.chirantanchatterjee.com/)) |
 | Oct 17 | 5 PM IST | [Kanishka Kacker](https://kanishkakacker.wixsite.com/mysite) (ISI Delhi) | Identifying the Effect of Coal Plants on Air Pollution (joint [E. Somanathan](https://www.isid.ac.in/~som/) and [Sagnik Dey](http://web.iitd.ac.in/~sagnik/) and Rishabh Choudhary) |
 | Nov 21 | 5 PM IST | Surbhi Kesar (APU) | Economic Transition, Dualism, and Informality in India: Nature and Patterns of Household-level Transitions |
 
@@ -67,3 +66,9 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | Jul 10 | [Abhishek Dureja](https://sites.google.com/view/abhishekdureja) (IGIDR) | [Smoothing Consumption in Times of Sickness: Households Recourse Mechanisms](https://www.dropbox.com/s/w5dxsgb5qi16vja/Abstract.pdf?dl=0) (joint with [Digvijay Negi](https://sites.google.com/view/digvijaysnegi/home)) |
 | Jul 17 | [Prasenjit Sarkhel](https://sites.google.com/view/prasenjitsarkhel) (University of Kalyani) | [Does More Schooling Imply Improved Learning? Evidence from a Conditional Cash Transfer Program in India](https://www.dropbox.com/s/7k2zlwjbtt32uxh/SAMVAAD_KP_UD_PS.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas))
 | Jul 24 | Kaushal Kishore (IISER, Bhopal) | [Dynamic Tax Competition, Home Bias and the gain from Non-preferential Taxation Regimes: A case for unilateral commitment](https://www.dropbox.com/s/65g853rvwzehmwm/JPET_Revision_one_Dynamic%20Tac%20Competition.pdf?dl=0)
+
+#### Monthly edition 
+
+| Date | Time |  Speaker | Paper |
+| ---- | ---- |  ------- | ----- | 
+| Sep 12 | 5 PM IST | [Anindya Chakrabarti](https://sites.google.com/site/homepageasc/home) (IIM Ahmedabad) | [Science, Pathogenic Outbreak & Market Structure: Evidence from the 2010 NDM-1 Superbug Discovery & Indian Antibiotics Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660454) (joint with [Mayank Aggarwal](https://scholar.google.co.in/citations?user=kaQs83MAAAAJ&hl=en) and [Chirantan Chatterjee](https://www.chirantanchatterjee.com/)) |
