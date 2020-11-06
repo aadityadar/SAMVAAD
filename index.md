@@ -9,7 +9,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
 | Nov 21 | 5 PM IST | [Surbhi Kesar](https://azimpremjiuniversity.edu.in/SitePages/surbhi-kesar.aspx) (APU) | [Economic Transition, Dualism, and Informality in India: Nature and Patterns of Household-level Transitions](https://cse.azimpremjiuniversity.edu.in/publications/economic-transition-dualism-and-informality-in-india-nature-and-patterns-of-household-level-transitions/) |
-| Jan 16 | 5 PM IST | Kanika Mahajan (Ashoka) | TBD |
+| Jan 16 | 5 PM IST | [Kanika Mahajan](https://sites.google.com/view/kanikamahajan) (Ashoka) | Gender and Jobs: Evidence from an online job portal in India |
 | Feb 13 | 5 PM IST | Oindrila Dey (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) | 
 
 Note: There is no talk in December.
