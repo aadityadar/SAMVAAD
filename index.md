@@ -8,7 +8,6 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
-| Nov 21 | 5 PM IST | [Surbhi Kesar](https://azimpremjiuniversity.edu.in/SitePages/surbhi-kesar.aspx) (APU) | [Economic Transition, Dualism, and Informality in India: Nature and Patterns of Household-level Transitions](https://cse.azimpremjiuniversity.edu.in/publications/economic-transition-dualism-and-informality-in-india-nature-and-patterns-of-household-level-transitions/) |
 | Jan 16 | 5 PM IST | [Kanika Mahajan](https://sites.google.com/view/kanikamahajan) (Ashoka) | Gender and Jobs: Evidence from an online job portal in India |
 | Feb 13 | 5 PM IST | Oindrila Dey (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) | 
 
@@ -76,3 +75,5 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | ---- | ---- |  ------- | ----- | 
 | Sep 12 | 5 PM IST | [Anindya Chakrabarti](https://sites.google.com/site/homepageasc/home) (IIM Ahmedabad) | [Science, Pathogenic Outbreak & Market Structure: Evidence from the 2010 NDM-1 Superbug Discovery & Indian Antibiotics Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660454) (joint with [Mayank Aggarwal](https://scholar.google.co.in/citations?user=kaQs83MAAAAJ&hl=en) and [Chirantan Chatterjee](https://www.chirantanchatterjee.com/)) |
 | Oct 17 | 5 PM IST | [Kanishka Kacker](https://kanishkakacker.wixsite.com/mysite) (ISI Delhi) | [Identifying the Effect of Coal Plants on Air Pollution](https://cd0ab0ba-202c-4f53-bcf0-717fcd194ccd.filesusr.com/ugd/dbe785_7fc4439de7154daa9368207c27ce0beb.pdf) (joint [E. Somanathan](https://www.isid.ac.in/~som/) and [Sagnik Dey](http://web.iitd.ac.in/~sagnik/) and Rishabh Choudhary) |
+| Nov 21 | 5 PM IST | [Surbhi Kesar](https://azimpremjiuniversity.edu.in/SitePages/surbhi-kesar.aspx) (APU) | [Economic Transition, Dualism, and Informality in India: Nature and Patterns of Household-level Transitions](https://cse.azimpremjiuniversity.edu.in/publications/economic-transition-dualism-and-informality-in-india-nature-and-patterns-of-household-level-transitions/) |
+
