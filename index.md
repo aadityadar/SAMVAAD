@@ -11,8 +11,6 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | Jan 21 | 4 PM IST | [Kanika Mahajan](https://sites.google.com/view/kanikamahajan) (Ashoka) | Words Matter: Gender, Jobs and Applicant Behavior (joint with [Sugat Chaturvedi](https://sites.google.com/view/sugatchaturvedi/research) and [Zahra Siddiqui](https://zahra-siddique.com)) |
 | Feb 13 | 5 PM IST | Oindrila Dey (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) | 
 
-Note: There is no talk in December.
-
 ### Details 
 
 - _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
@@ -77,3 +75,4 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | Oct 17 | 5 PM IST | [Kanishka Kacker](https://kanishkakacker.wixsite.com/mysite) (ISI Delhi) | [Identifying the Effect of Coal Plants on Air Pollution](https://cd0ab0ba-202c-4f53-bcf0-717fcd194ccd.filesusr.com/ugd/dbe785_7fc4439de7154daa9368207c27ce0beb.pdf) (joint [E. Somanathan](https://www.isid.ac.in/~som/) and [Sagnik Dey](http://web.iitd.ac.in/~sagnik/) and Rishabh Choudhary) |
 | Nov 21 | 5 PM IST | [Surbhi Kesar](https://azimpremjiuniversity.edu.in/SitePages/surbhi-kesar.aspx) (APU) | [Economic Transition, Dualism, and Informality in India: Nature and Patterns of Household-level Transitions](https://cse.azimpremjiuniversity.edu.in/publications/economic-transition-dualism-and-informality-in-india-nature-and-patterns-of-household-level-transitions/) |
 
+Note: There was no talk in December 2020.
