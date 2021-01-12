@@ -8,7 +8,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
-| Jan 16 | 5 PM IST | [Kanika Mahajan](https://sites.google.com/view/kanikamahajan) (Ashoka) | Gender and Jobs: Evidence from an online job portal in India |
+| Jan 21 | 4 PM IST | [Kanika Mahajan](https://sites.google.com/view/kanikamahajan) (Ashoka) | Words Matter: Gender, Jobs and Applicant Behavior (joint with [Sugat Chaturvedi](https://sites.google.com/view/sugatchaturvedi/research) and [Zahra Siddiqui](https://zahra-siddique.com) |
 | Feb 13 | 5 PM IST | Oindrila Dey (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) | 
 
 Note: There is no talk in December.
