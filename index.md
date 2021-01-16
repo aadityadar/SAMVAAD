@@ -1,6 +1,6 @@
 ## Seminar in Applied Microeconomics - Virtual Assembly and Discussion 
 
-SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. The online seminars are coordinated by [Sabyasachi Das](https://dassabyasachi.wordpress.com/) and [Aaditya Dar](http://aadityadar.com) and conducted once a month in association with the [Society for Economic Research in India (SERI)](http://seri-india.org/).
+SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. The online seminars are coordinated by [Sabyasachi Das](https://dassabyasachi.wordpress.com/) and [Aaditya Dar](http://aadityadar.com) and conducted once a month in association with the [Society for Economic Research in India (SERI)](http://seri-india.org/). To receive an invite, please [sign up for the mailing list.](https://forms.gle/JsXhRoNskxuKQuk59)
 
 ### Upcoming SAMVAADs
 
