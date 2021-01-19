@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: SAMVAAD
 logo: assets/img/samvaad.png
+github: 
+  is_project_page: False
