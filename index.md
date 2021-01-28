@@ -9,7 +9,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
 | 11 Feb 2021 | 5 PM IST | Oindrila Dey (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) | 
-| 11 Mar 2021 | 5 PM IST | Anirban Mukherjee (University of Calcutta) | [Family culture and women’s wage: a study on Indian labor market](https://drive.google.com/file/d/1gSf0wqwE1HpYfTePMVRuX7Bw8XUjs1hu/view?usp=sharing) (joint with [Sukanya Sarkhel](https://sites.google.com/view/sukanyasarkhel/home)) |
+| 11 Mar 2021 | 5 PM IST | Anirban Mukherjee (University of Calcutta) | [Family culture and women’s wage: a study on Indian labor market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770404) (joint with [Sukanya Sarkhel](https://sites.google.com/view/sukanyasarkhel/home)) |
 
 ### Details 
 
