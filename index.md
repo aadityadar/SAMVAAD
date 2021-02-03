@@ -6,7 +6,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) for the mailing list. You can also [add the Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata).
 
-| Date | Time |  Speaker | Paper |
+| Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
 | 18 Feb 2021 | 5 PM IST | Oindrila Dey (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) | 
 | 11 Mar 2021 | 5 PM IST | Anirban Mukherjee (University of Calcutta) | [Family culture and women’s wage: a study on Indian labor market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770404) (joint with [Sukanya Sarkhel](https://sites.google.com/view/sukanyasarkhel/home)) |
