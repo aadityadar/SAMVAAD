@@ -10,7 +10,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | ---- | ---- |  ------- | ----- | 
 | 18 Feb 2021 | 5 PM IST | [Oindrila Dey](https://sites.google.com/site/doindrila) (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) (joint with [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh)) | 
 | 11 Mar 2021 | 5 PM IST | Anirban Mukherjee (University of Calcutta) | [Family culture and women’s wage: a study on Indian labor market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770404) (joint with [Sukanya Sarkhel](https://sites.google.com/view/sukanyasarkhel/home)) |
-| 15 Apr 2021 | 5 PM IST | Aditi Bhowmick (Development Data Lab) and Sutanuka Roy (Australian National University) | Symposium on bias in Indian judiciary |
+| 15 Apr 2021 | 5 PM IST | Aditi Bhowmick (Development Data Lab) and [Sutanuka Roy](https://sites.google.com/view/sutanuka-roy/home) (Australian National University) | Symposium on bias in Indian judiciary |
 
 ### Details 
 
