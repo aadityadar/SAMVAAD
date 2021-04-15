@@ -9,7 +9,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
 | 15 Apr 2021 | 6 PM IST | [Aditi Bhowmick](https://www.linkedin.com/in/aditi-bhowmick-802) (Development Data Lab) and [Sutanuka Roy](https://sites.google.com/view/sutanuka-roy/home) (Australian National University) | Symposium on bias in Indian judiciary: [Ash et. al. 2021](http://www.devdatalab.org/judicial-bias) and [Bharti and Roy 2021](https://www.dropbox.com/s/56ky9e66n9q7ehi/Early_Origin_V1.pdf) |
-| 13 May 2021 | 5 PM IST | [Rahul Singh](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-singh/) (Ahmedabad University) | Creditor Rights and Product Innovation: Evidence from India (with [Tanya Jain](https://www.iimb.ac.in/node/5209) and [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian))
+| 13 May 2021 | 5 PM IST | [Rahul Singh](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-singh/) (Ahmedabad University) | Creditor Rights and Product Innovation: Evidence from India (joint with [Tanya Jain](https://www.iimb.ac.in/node/5209) and [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian))
 
 
 
