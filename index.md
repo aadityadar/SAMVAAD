@@ -8,7 +8,6 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 15 Apr 2021 | 6 PM IST | [Aditi Bhowmick](https://www.linkedin.com/in/aditi-bhowmick-802) (Development Data Lab) and [Sutanuka Roy](https://sites.google.com/view/sutanuka-roy/home) (Australian National University) | Symposium on bias in Indian judiciary: [Ash et. al. 2021](http://www.devdatalab.org/judicial-bias) and [Bharti and Roy 2021](https://www.dropbox.com/s/56ky9e66n9q7ehi/Early_Origin_V1.pdf) |
 | 13 May 2021 | 5 PM IST | [Rahul Singh](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-singh/) (Ahmedabad University) | Creditor Rights and Product Innovation: Evidence from India (joint with [Tanya Jain](https://www.iimb.ac.in/node/5209) and [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian))
 
 
@@ -79,5 +78,6 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | 21 Jan 2021  | 4 PM IST | [Kanika Mahajan](https://sites.google.com/view/kanikamahajan) (Ashoka) | [Words Matter: Gender, Jobs and Applicant Behavior]( https://www.dropbox.com/s/ofsshqp0e0kuj2g/Abstract_Words_matter.pdf?dl=0) (joint with [Sugat Chaturvedi](https://sites.google.com/view/sugatchaturvedi/research) and [Zahra Siddiqui](https://zahra-siddique.com)) |
 | 18 Feb 2021 | 5 PM IST | [Oindrila Dey](https://sites.google.com/site/doindrila) (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) (joint with [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh)) | 
 | 11 Mar 2021 | 5 PM IST | [Anirban Mukherjee](https://sites.google.com/view/anirbanm/home) (University of Calcutta) | [Family culture and women’s wage: a study on Indian labor market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770404) (joint with [Sukanya Sarkhel](https://sites.google.com/view/sukanyasarkhel/home)) |
+| 15 Apr 2021 | 6 PM IST | [Aditi Bhowmick](https://www.linkedin.com/in/aditi-bhowmick-802) (Development Data Lab) and [Sutanuka Roy](https://sites.google.com/view/sutanuka-roy/home) (Australian National University) | Symposium on bias in Indian judiciary: [Ash et. al. 2021](http://www.devdatalab.org/judicial-bias) and [Bharti and Roy 2021](https://www.dropbox.com/s/56ky9e66n9q7ehi/Early_Origin_V1.pdf) |
 
 Note: There was no talk in December 2020.
