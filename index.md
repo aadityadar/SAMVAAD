@@ -8,7 +8,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 13 May 2021 | 5 PM IST | [Rahul Singh](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-singh/) (Ahmedabad University) | [Creditor Rights and Product Innovation: Evidence from India](https://www.dropbox.com/sh/5nhrozw9dufgih9/AABMA25Vn_8PdGe5n7TKR2z6a?dl=0) (joint with [Tanya Jain](https://www.iimb.ac.in/node/5209) and [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian))
+| 13 May 2021 | 6 PM IST | [Rahul Singh](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-singh/) (Ahmedabad University) | [Creditor Rights and Product Innovation: Evidence from India](https://www.dropbox.com/sh/5nhrozw9dufgih9/AABMA25Vn_8PdGe5n7TKR2z6a?dl=0) (joint with [Tanya Jain](https://www.iimb.ac.in/node/5209) and [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian))
 
 
 
