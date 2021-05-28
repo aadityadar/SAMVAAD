@@ -8,9 +8,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 13 May 2021 | 6 PM IST | [Rahul Singh](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-singh/) (Ahmedabad University) | [Creditor Rights and Product Innovation: Evidence from India](https://www.dropbox.com/sh/5nhrozw9dufgih9/AABMA25Vn_8PdGe5n7TKR2z6a?dl=0) (joint with [Tanya Jain](https://www.iimb.ac.in/node/5209) and [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian))
-
-
+| 10 Jun 2021 | 6 PM IST | [Subrato Banerjee](https://www.hss.iitb.ac.in/en/faculty-profile/subrato-banerjee) (IIT Bombay) | [Fairness is flexible: A study of competing focal points](#) (joint with [Priyanka Kothari](https://jgu.edu.in/jgbs/faculty/prof-dr-priyanka-kothari/) and [Prabal Roy Chowdhury](https://www.isid.ac.in/~prabalrc/))
 
 ### Details 
 
@@ -79,5 +77,7 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | 18 Feb 2021 | 5 PM IST | [Oindrila Dey](https://sites.google.com/site/doindrila) (IIFT Kolkata) | [Conditionality Matters: A Samaritan’s Dilemma with In-Kind Transfers Targeting Educational Attainment](https://drive.google.com/file/d/1Nc4CIJfn9B7jh8ln0fKbsGfwyD3K9lfu/view?usp=sharing) (joint with [Somdeep Chatterjee](https://sites.google.com/site/somdeepuh)) | 
 | 11 Mar 2021 | 5 PM IST | [Anirban Mukherjee](https://sites.google.com/view/anirbanm/home) (University of Calcutta) | [Family culture and women’s wage: a study on Indian labor market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770404) (joint with [Sukanya Sarkhel](https://sites.google.com/view/sukanyasarkhel/home)) |
 | 15 Apr 2021 | 6 PM IST | [Aditi Bhowmick](https://www.linkedin.com/in/aditi-bhowmick-802) (Development Data Lab) and [Sutanuka Roy](https://sites.google.com/view/sutanuka-roy/home) (Australian National University) | Symposium on bias in Indian judiciary: [Ash et. al. 2021](http://www.devdatalab.org/judicial-bias) and [Bharti and Roy 2021](https://www.dropbox.com/s/56ky9e66n9q7ehi/Early_Origin_V1.pdf) |
+| 13 May 2021 | 6 PM IST | [Rahul Singh](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-singh/) (Ahmedabad University) | [Creditor Rights and Product Innovation: Evidence from India](https://www.dropbox.com/sh/5nhrozw9dufgih9/AABMA25Vn_8PdGe5n7TKR2z6a?dl=0) (joint with [Tanya Jain](https://www.iimb.ac.in/node/5209) and [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian))
+
 
 Note: There was no talk in December 2020.
