@@ -8,7 +8,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 10 Jun 2021 | 6 PM IST | [Subrato Banerjee](https://www.hss.iitb.ac.in/en/faculty-profile/subrato-banerjee) (IIT Bombay) | [Fairness is flexible: A study of competing focal points](#) (joint with [Priyanka Kothari](https://jgu.edu.in/jgbs/faculty/prof-dr-priyanka-kothari/) and [Prabal Roy Chowdhury](https://www.isid.ac.in/~prabalrc/))
+| 17 Jun 2021 | 6 PM IST | [Subrato Banerjee](https://www.hss.iitb.ac.in/en/faculty-profile/subrato-banerjee) (IIT Bombay) | [Fairness is flexible: A study of competing focal points](https://drive.google.com/file/d/1afoQv2D7QPZlENDUdM6lLzwxZjA08sta/view) (joint with [Priyanka Kothari](https://jgu.edu.in/jgbs/faculty/prof-dr-priyanka-kothari/) and [Prabal Roy Chowdhury](https://www.isid.ac.in/~prabalrc/))
 
 ### Details 
 
