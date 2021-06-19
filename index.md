@@ -8,9 +8,9 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 <table>
   <tr>
-    <td>Date</td>
-    <td>Speaker</td>
-    <td>Paper</td>
+    <td><b>Date</b></td>
+    <td><b>Speaker</b></td>
+    <td><b>Paper</b></td>
   </tr>
   <tr>
     <td colspan="3">Update as on June 18: The seminar schedule will be shared soon</td>
