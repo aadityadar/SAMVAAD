@@ -13,7 +13,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
     <td><b>Paper</b></td>
   </tr>
   <tr>
-    <td colspan="3">No seminar in lieu of <a href = "https://seri-india.org/annual-workshop/">SERI's annual workshop</a>. <a href = "https://seriindiadotorg.files.wordpress.com/2021/07/seriworkshop2021_schedule-1.pdf">Program</a>. <a href = "https://zoom.us/webinar/register/WN_RjtSqeQKSaWwiMdnSi6l9A">Registration</a>.</td>
+    <td colspan="3">No seminar in July in lieu of <a href = "https://seri-india.org/annual-workshop/">SERI's annual workshop</a>. <a href = "https://seriindiadotorg.files.wordpress.com/2021/07/seriworkshop2021_schedule-1.pdf">Program</a>. <a href = "https://zoom.us/webinar/register/WN_RjtSqeQKSaWwiMdnSi6l9A">Registration</a>.</td>
   </tr>
 </table>
 
