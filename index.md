@@ -13,9 +13,11 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
     <td><b>Paper</b></td>
   </tr>
   <tr>
-    <td colspan="3">Update as on June 18: The seminar schedule will be shared soon</td>
+    <td colspan="3">No seminar in lieu of [SERI's annual workshop](https://seri-india.org/annual-workshop/). [Workshop program](https://zoom.us/webinar/register/WN_RjtSqeQKSaWwiMdnSi6l9A). [Registration](https://zoom.us/webinar/register/WN_RjtSqeQKSaWwiMdnSi6l9A).</td>
   </tr>
 </table>
+
+<!-- <td colspan="2">Update as on June 18: The seminar schedule will be shared soon</td> -->
 
 <!--
 | Date | Time |  Speaker(s) | Paper |
