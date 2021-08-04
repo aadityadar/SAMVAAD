@@ -6,6 +6,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) for the mailing list. You can also [add the Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata).
 
+<!--
 <table>
   <tr>
     <td><b>Date</b></td>
@@ -16,14 +17,14 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
     <td colspan="3">No seminar in July in lieu of <a href = "https://seri-india.org/annual-workshop/">SERI's annual workshop</a>. <a href = "https://seriindiadotorg.files.wordpress.com/2021/07/seriworkshop2021_schedule-1.pdf">Program</a>. <a href = "https://zoom.us/webinar/register/WN_RjtSqeQKSaWwiMdnSi6l9A">Registration</a>.</td>
   </tr>
 </table>
+-->
 
 <!-- <td colspan="2">Update as on June 18: The seminar schedule will be shared soon</td> -->
 
-<!--
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 17 Jun 2021 | 6 PM IST | [Subrato Banerjee](https://www.hss.iitb.ac.in/en/faculty-profile/subrato-banerjee) (IIT Bombay) | [Fairness is flexible: A study of competing focal points](https://drive.google.com/file/d/1afoQv2D7QPZlENDUdM6lLzwxZjA08sta/view) (joint with [Priyanka Kothari](https://jgu.edu.in/jgbs/faculty/prof-dr-priyanka-kothari/) and [Prabal Roy Chowdhury](https://www.isid.ac.in/~prabalrc/))
--->
+| Aug 2021 | 6 PM IST | TBD | TBD
+| 16 Sep 2021 | 6 PM IST | [Rashmi Barua](https://sites.google.com/site/rbaruabhowmik/) (JNU) | TBD
 
 ### Details 
 
@@ -85,4 +86,4 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | 17 Jun 2021 | 6 PM IST | [Subrato Banerjee](https://www.hss.iitb.ac.in/en/faculty-profile/subrato-banerjee) (IIT Bombay) | [Fairness is flexible: A study of competing focal points](https://drive.google.com/file/d/1afoQv2D7QPZlENDUdM6lLzwxZjA08sta/view) (joint with [Priyanka Kothari](https://jgu.edu.in/jgbs/faculty/prof-dr-priyanka-kothari/) and [Prabal Roy Chowdhury](https://www.isid.ac.in/~prabalrc/))
 
 
-Note: There was no talk in December 2020.
+Note: There was no talk in December 2020 due to conflicts with winter conferences. There was no talk in July 2021 to avoid conflict with [SERI's annual workshop](https://seriindiadotorg.files.wordpress.com/2021/07/seriworkshop2021_schedule-1.pdf).
