@@ -25,7 +25,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | ---- | ---- |  ------- | ----- | 
 | Aug 2021 | 6 PM IST | TBD | TBD
 | 16 Sep 2021 | 6 PM IST | [Rashmi Barua](https://sites.google.com/site/rbaruabhowmik/) (JNU) | TBD
-| Oct 2021 | 6 PM IST | [Shreya Biswas](https://sites.google.com/hyderabad.bits-pilani.ac.in/shreya-biswas/home?authuser=0) (BITS Pilani, Hyderabad Campus) | [What's the worth of a promise? Evaluating the longer-term effect indirect effects of a program to reduce early marriage in India](https://www.dropbox.com/s/gssm7bpijpofdj3/What%E2%80%99s%20the%20worth%20of%20a%20promise%20Evaluating%20the%20longer-term%20indirect%20effects%20of%20a%20program%20to%20reduce%20early%20marriage%20in%20India_Biswas_Das.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/home))
+| 21 Oct 2021 | 6 PM IST | [Shreya Biswas](https://sites.google.com/hyderabad.bits-pilani.ac.in/shreya-biswas/home?authuser=0) (BITS Pilani, Hyderabad Campus) | [What's the worth of a promise? Evaluating the longer-term effect indirect effects of a program to reduce early marriage in India](https://www.dropbox.com/s/gssm7bpijpofdj3/What%E2%80%99s%20the%20worth%20of%20a%20promise%20Evaluating%20the%20longer-term%20indirect%20effects%20of%20a%20program%20to%20reduce%20early%20marriage%20in%20India_Biswas_Das.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/home))
 
 ### Details 
 
