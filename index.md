@@ -22,7 +22,6 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 <!-- <td colspan="2">Update as on June 18: The seminar schedule will be shared soon</td> -->
 
 | Date | Time |  Speaker(s) | Paper |
-
 | ---- | ---- |  ------- | ----- | 
 
 | 16 Sep 2021 | 6 PM IST | [Rashmi Barua](https://sites.google.com/site/rbaruabhowmik/) (JNU) | [Gender Disparities in the Prevalence of Undernutrition in India: The Unexplored Effects of Drinking Contaminated Water](https://drive.google.com/file/d/1yADDpKZti2v4roCcFcDnOtXmMylVGpWD/view?usp=sharing) (joint with Khushboo Aggarwal)
