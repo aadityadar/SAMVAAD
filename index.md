@@ -25,7 +25,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | ---- | ---- |  ------- | ----- | 
 | 16 Sep 2021 | 6 PM IST | [Rashmi Barua](https://sites.google.com/site/rbaruabhowmik/) (JNU) | [Gender Disparities in the Prevalence of Undernutrition in India: The Unexplored Effects of Drinking Contaminated Water](https://drive.google.com/file/d/1yADDpKZti2v4roCcFcDnOtXmMylVGpWD/view?usp=sharing) (joint with Khushboo Aggarwal)
 | 21 Oct 2021 | 6 PM IST | [Shreya Biswas](https://sites.google.com/hyderabad.bits-pilani.ac.in/shreya-biswas/home?authuser=0) (BITS Pilani, Hyderabad Campus) | [What's the worth of a promise? Evaluating the longer-term indirect effects of a program to reduce early marriage in India](https://www.dropbox.com/s/gssm7bpijpofdj3/What%E2%80%99s%20the%20worth%20of%20a%20promise%20Evaluating%20the%20longer-term%20indirect%20effects%20of%20a%20program%20to%20reduce%20early%20marriage%20in%20India_Biswas_Das.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/home))
-| 18 Nov 2021 | 6 PM IST | [Ashwini Deshpande](https://sites.google.com/view/ashwinideshpande/home) (Ashoka) | [Dropping Out, Being Pushed out or Can't Get In? Decoding Declining Labour Force Participation of Indian Women](https://dp.ashoka.edu.in/ash/wpaper/paper65.pdf) (joint with Jitendra Singh)
+| 18 Nov 2021 | 6 PM IST | [Ashwini Deshpande](https://sites.google.com/view/ashwinideshpande/home) (Ashoka) | [Dropping Out, Being Pushed out or Can't Get In? Decoding Declining Labour Force Participation of Indian Women](http://ftp.iza.org/dp14639.pdf) (joint with Jitendra Singh)
 
 
 ### Details 
