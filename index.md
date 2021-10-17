@@ -25,7 +25,9 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | ---- | ---- |  ------- | ----- | 
 | 21 Oct 2021 | 6 PM IST | [Shreya Biswas](https://sites.google.com/hyderabad.bits-pilani.ac.in/shreya-biswas/home?authuser=0) (BITS Pilani, Hyderabad Campus) | [What's the worth of a promise? Evaluating the longer-term indirect effects of a program to reduce early marriage in India](https://www.dropbox.com/s/gssm7bpijpofdj3/What%E2%80%99s%20the%20worth%20of%20a%20promise%20Evaluating%20the%20longer-term%20indirect%20effects%20of%20a%20program%20to%20reduce%20early%20marriage%20in%20India_Biswas_Das.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/home))
 | 18 Nov 2021 | 6 PM IST | [Ashwini Deshpande](https://sites.google.com/view/ashwinideshpande/home) (Ashoka) | [Dropping Out, Being Pushed out or Can't Get In? Decoding Declining Labour Force Participation of Indian Women](http://ftp.iza.org/dp14639.pdf) (joint with Jitendra Singh)
+| Jan 2022 | 6 PM IST | Samarth Gupta | Public Sector Procurement and Spillover on Private Sector: Evidence from Indian Pharmaceutical Industry (joint with Chirantan Chatterjee)
 
+Note: There is no talk in Dec 2022 to avoid conflict with the winter conferences in India.
 
 ### Details 
 
