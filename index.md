@@ -23,7 +23,6 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| [18 Nov 2021](https://zoom.us/j/99169947984?pwd=eXpxeFdrajRSc2hjMmt3Mks0WlRTdz09) | 6 PM IST | [Ashwini Deshpande](https://sites.google.com/view/ashwinideshpande/home) (Ashoka) | [Dropping Out, Being Pushed out or Can't Get In? Decoding Declining Labour Force Participation of Indian Women](http://ftp.iza.org/dp14639.pdf) (joint with Jitendra Singh)
 | Jan 2022 | 6 PM IST | Samarth Gupta | Public Sector Procurement and Spillover on Private Sector: Evidence from Indian Pharmaceutical Industry (joint with Chirantan Chatterjee)
 
 Note: There is no talk in Dec 2022 to avoid conflict with the winter conferences in India.
@@ -89,6 +88,7 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | 12 Aug 2021 | 6 PM IST | [Ritika Jain](https://sites.google.com/view/ritika-jain/) (CDS) | [Effect of COVID-19 lockdown on the profitability of firms in India](https://drive.google.com/file/d/1HZnOZCJTNffqynFrEdgD-J-99QmXvSaj/view?usp=sharing) (joint with [Rajnish Kumar](https://www.linkedin.com/in/rajnish-kumar-ph-d-54085892))
 | 23 Sep 2021 | 6 PM IST | [Rashmi Barua](https://sites.google.com/site/rbaruabhowmik/) (JNU) | [Gender Disparities in the Prevalence of Undernutrition in India: The Unexplored Effects of Drinking Contaminated Water](https://drive.google.com/file/d/1yADDpKZti2v4roCcFcDnOtXmMylVGpWD/view?usp=sharing) (joint with Khushboo Aggarwal)
 | 21 Oct 2021 | 6 PM IST | [Shreya Biswas](https://sites.google.com/hyderabad.bits-pilani.ac.in/shreya-biswas/home?authuser=0) (BITS Pilani, Hyderabad Campus) | [What's the worth of a promise? Evaluating the longer-term indirect effects of a program to reduce early marriage in India](https://www.dropbox.com/s/gssm7bpijpofdj3/What%E2%80%99s%20the%20worth%20of%20a%20promise%20Evaluating%20the%20longer-term%20indirect%20effects%20of%20a%20program%20to%20reduce%20early%20marriage%20in%20India_Biswas_Das.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/home))
+| [18 Nov 2021](https://zoom.us/j/99169947984?pwd=eXpxeFdrajRSc2hjMmt3Mks0WlRTdz09) | 6 PM IST | [Ashwini Deshpande](https://sites.google.com/view/ashwinideshpande/home) (Ashoka) | [Dropping Out, Being Pushed out or Can't Get In? Decoding Declining Labour Force Participation of Indian Women](http://ftp.iza.org/dp14639.pdf) (joint with Jitendra Singh) [Recording](https://youtu.be/CqhnL6lRkB8)
 
 
 Note: There was no talk in December 2020 due to conflicts with winter conferences. There was no talk in July 2021 to avoid conflict with [SERI's annual workshop](https://seriindiadotorg.files.wordpress.com/2021/07/seriworkshop2021_schedule-1.pdf).
