@@ -6,6 +6,17 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) for the mailing list. You can also [add the Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata).
 
+<table>
+  <tr>
+    <td><b>Date</b></td>
+    <td><b>Speaker</b></td>
+    <td><b>Paper</b></td>
+  </tr>
+  <tr>
+    <td colspan="2">Update as on Jan 10: The seminar schedule will be shared soon</td>
+  </tr>
+</table>
+
 <!--
 <table>
   <tr>
@@ -21,9 +32,11 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 <!-- <td colspan="2">Update as on June 18: The seminar schedule will be shared soon</td> -->
 
+<!--
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
 | Jan 2022 | 6 PM IST | Samarth Gupta | Public Sector Procurement and Spillover on Private Sector: Evidence from Indian Pharmaceutical Industry (joint with Chirantan Chatterjee)
+-->
 
 Note: There is no talk in Dec 2022 to avoid conflict with the winter conferences in India.
 
