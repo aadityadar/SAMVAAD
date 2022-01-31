@@ -6,6 +6,7 @@ SAMVAAD is a platform for faculty and researchers in India to present their work
 
 To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQuk59) for the mailing list. You can also [add the Google Calendar (click on + button in the bottom right corner)](https://calendar.google.com/calendar/embed?src=qiecighlpncmddln5dnnnm4hko%40group.calendar.google.com&ctz=Asia%2FKolkata).
 
+<!-- 
 <table>
   <tr>
     <td><b>Date</b></td>
@@ -16,6 +17,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
     <td colspan="2">Update as on Jan 10: The seminar schedule will be shared soon</td>
   </tr>
 </table>
+-->
 
 <!--
 <table>
@@ -32,13 +34,12 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 <!-- <td colspan="2">Update as on June 18: The seminar schedule will be shared soon</td> -->
 
-<!--
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| Jan 2022 | 6 PM IST | Samarth Gupta | Public Sector Procurement and Spillover on Private Sector: Evidence from Indian Pharmaceutical Industry (joint with Chirantan Chatterjee)
--->
+| 17 Feb 2023 | 6 PM IST | Purushottam Mohanty (Good Business Lab) | [Decentralization and Development: Evidence from District-Splitting](https://www.dropbox.com/s/natp2j546j9gwla/decentralization_development_paper_v2.pdf?dl=0) (joint with Smit Gade and Saumya Joshi)
 
-Note: There is no talk in Dec 2022 to avoid conflict with the winter conferences in India.
+
+Note: There is no talk in Dec 2022 and Jan 2023 to avoid conflict with the winter conferences and job market season in India respectively. 
 
 ### Details 
 
