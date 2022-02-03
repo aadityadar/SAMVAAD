@@ -36,10 +36,10 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 17 Feb 2023 | 6 PM IST | Purushottam Mohanty (Good Business Lab) | [Decentralization and Development: Evidence from District-Splitting](https://www.dropbox.com/s/natp2j546j9gwla/decentralization_development_paper_v2.pdf?dl=0) (joint with Smit Gade and Saumya Joshi)
+| 17 Feb 2022 | 6 PM IST | Purushottam Mohanty (Good Business Lab) | [Decentralization and Development: Evidence from District-Splitting](https://www.dropbox.com/s/natp2j546j9gwla/decentralization_development_paper_v2.pdf?dl=0) (joint with Smit Gade and Saumya Joshi)
 
 
-Note: There is no talk in Dec 2022 and Jan 2023 to avoid conflict with the winter conferences and job market season in India respectively. 
+Note: There is no talk in Dec 2021 and Jan 2022 to avoid conflict with the winter conferences and job market season in India respectively. 
 
 ### Details 
 
