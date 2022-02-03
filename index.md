@@ -41,8 +41,6 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | 14 Apr 2022 | 6 PM IST | [Kalyani Raghunathan](https://sites.google.com/view/kalyani-raghunathan/home) (IFPRI) | TBA
 | 19 May 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | TBA
 
-Note: There is no talk in Dec 2021 and Jan 2022 to avoid conflict with the winter conferences and job market season in India respectively. 
-
 ### Details 
 
 - _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
@@ -107,4 +105,5 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | May 8 | [Tanika Chakraborty](https://www.iimcal.ac.in/users/tanika) (IIM Calcutta) | [Caste, Courts and Business](https://www.dropbox.com/s/0qbjshi7hzkp0jz/Abstract_Webinar_Tanika.pdf?dl=0) (joint with [Sarani Saha](https://www.iitk.ac.in/new/sarani-saha), Divya Shukla, [Anirban Mukherjee](https://sites.google.com/view/anirbanm/home)) | 
 | May 1 | [Garima Agarwal](https://sites.google.com/view/garima-agarwal) (DSE) | Improving school attendance for adolescent girls - Evidence from a policy experiment in Delhi's public schools |
 
-Note: There was no talk in December 2020 and December 2021 due to conflicts with winter conferences. There was no talk in July 2021 to avoid conflict with [SERI's annual workshop](https://seriindiadotorg.files.wordpress.com/2021/07/seriworkshop2021_schedule-1.pdf).
+Note: There was no talk in December 2020 and December 2021 due to conflicts with winter conferences in India. There was no talk in July 2021 to avoid conflict with [SERI's annual workshop](https://seriindiadotorg.wordpress.com/annual-workshop/). There was also no talk in Jan 2022 on account of the job market season in India. 
+
