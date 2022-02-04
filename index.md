@@ -37,7 +37,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
 | 17 Feb 2022 | 6 PM IST | Purushottam Mohanty (Good Business Lab) | [Decentralization and Development: Evidence from District-Splitting](https://www.dropbox.com/s/natp2j546j9gwla/decentralization_development_paper_v2.pdf?dl=0) (joint with Smit Gade and Saumya Joshi)
-| Mar 2022 | 6 PM IST | TBA
+| 17 Mar 2022 | 6 PM IST | [Sowmya Dhanaraj](https://www.mse.ac.in/faculty/sowmya/) (Madras School of Economics) | Money and more: Impact of conditional cash plus health advice on 'untargeted' child health outcomes in India
 | 14 Apr 2022 | 6 PM IST | [Kalyani Raghunathan](https://sites.google.com/view/kalyani-raghunathan/home) (IFPRI) | TBA
 | 19 May 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | TBA
 
