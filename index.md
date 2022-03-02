@@ -36,9 +36,9 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 24 Feb 2022 | 6 PM IST | Purushottam Mohanty (Good Business Lab) | [Decentralization and Development: Evidence from District-Splitting](https://www.dropbox.com/s/natp2j546j9gwla/decentralization_development_paper_v2.pdf?dl=0) (joint with Smit Gade and Saumya Joshi)
+
 | 17 Mar 2022 | 6 PM IST | [Sowmya Dhanaraj](https://www.mse.ac.in/faculty/sowmya/) (Madras School of Economics) | Money and more: Impact of conditional cash plus health advice on 'untargeted' child health outcomes in India
-| 14 Apr 2022 | 6 PM IST | [Kalyani Raghunathan](https://sites.google.com/view/kalyani-raghunathan/home) (IFPRI) | TBA
+| 14 Apr 2022 | 6 PM IST | [Kalyani Raghunathan](https://sites.google.com/view/kalyani-raghunathan/home) (IFPRI) | [Post-program impacts of transfer programs on child development: Experimental evidence from Bangladesh](https://www.ifpri.org/publication/post-program-impacts-transfer-programs-child-development-experimental-evidence) (joint with [Akhter Ahmed](https://www.ifpri.org/profile/akhter-ahmed), [Jena Derakhshani Hamadani](https://www.icddrb.org/index.php?option=com_content&view=article&id=4223&Itemid=2202&staffID=215), Md. Zahidul Hassan, [Melissa Hidrobo](https://www.ifpri.org/profile/melissa-hidrobo), [John F. Hoddinott](https://economics.cornell.edu/john-hoddinott), [Bastien Koch](https://www.ifpri.org/profile/bastien-koch) and [Shalini Roy](https://www.ifpri.org/profile/shalini-roy))
 | 19 May 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | TBA
 
 ### Details 
@@ -69,6 +69,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
+| 24 Feb 2022 | 6 PM IST | Purushottam Mohanty (Good Business Lab) | [Decentralization and Development: Evidence from District-Splitting](https://www.dropbox.com/s/natp2j546j9gwla/decentralization_development_paper_v2.pdf?dl=0) (joint with Smit Gade and Saumya Joshi)
 | 18 Nov 2021 | 6 PM IST | [Ashwini Deshpande](https://sites.google.com/view/ashwinideshpande/home) (Ashoka) | [Dropping Out, Being Pushed out or Can't Get In? Decoding Declining Labour Force Participation of Indian Women](http://ftp.iza.org/dp14639.pdf) (joint with Jitendra Singh). [[Recording](https://youtu.be/CqhnL6lRkB8).]
 | 21 Oct 2021 | 6 PM IST | [Shreya Biswas](https://sites.google.com/hyderabad.bits-pilani.ac.in/shreya-biswas/home?authuser=0) (BITS Pilani, Hyderabad Campus) | [What's the worth of a promise? Evaluating the longer-term indirect effects of a program to reduce early marriage in India](https://www.dropbox.com/s/gssm7bpijpofdj3/What%E2%80%99s%20the%20worth%20of%20a%20promise%20Evaluating%20the%20longer-term%20indirect%20effects%20of%20a%20program%20to%20reduce%20early%20marriage%20in%20India_Biswas_Das.pdf?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/home))
 | 23 Sep 2021 | 6 PM IST | [Rashmi Barua](https://sites.google.com/site/rbaruabhowmik/) (JNU) | [Gender Disparities in the Prevalence of Undernutrition in India: The Unexplored Effects of Drinking Contaminated Water](https://drive.google.com/file/d/1yADDpKZti2v4roCcFcDnOtXmMylVGpWD/view?usp=sharing) (joint with Khushboo Aggarwal)
