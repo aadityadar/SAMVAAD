@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: SAMVAAD
+description: "Seminar in Applied Microeconomics - Virtual Assembly and Discussion #EconIndia"
+url: "https://aadityadar.github.io" 
+baseurl: "/samvaad"
 logo: assets/img/samvaad.png
 github: 
   is_project_page: False
