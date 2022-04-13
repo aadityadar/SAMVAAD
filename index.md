@@ -37,7 +37,8 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
 | 14 Apr 2022 | 6 PM IST | [Kalyani Raghunathan](https://sites.google.com/view/kalyani-raghunathan/home) (IFPRI) | [Post-program impacts of transfer programs on child development: Experimental evidence from Bangladesh](https://www.ifpri.org/publication/post-program-impacts-transfer-programs-child-development-experimental-evidence) (joint with [Akhter Ahmed](https://www.ifpri.org/profile/akhter-ahmed), [Jena Derakhshani Hamadani](https://www.icddrb.org/index.php?option=com_content&view=article&id=4223&Itemid=2202&staffID=215), Md. Zahidul Hassan, [Melissa Hidrobo](https://www.ifpri.org/profile/melissa-hidrobo), [John F. Hoddinott](https://economics.cornell.edu/john-hoddinott), [Bastien Koch](https://www.ifpri.org/profile/bastien-koch) and [Shalini Roy](https://www.ifpri.org/profile/shalini-roy))
-| 19 May 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | TBA
+| 12 May 2022 | 6 PM IST | [Sutirtha Sinha Roy](#) (World Bank) |  [Poverty in India Has Declined over the Last Decade But Not As Much As Previously Thought](http://hdl.handle.net/10986/37273) (joint with [Roy van der Weide](https://sites.google.com/site/decrgroyvanderweide))
+| 16 June 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | TBA
 
 ### Details 
 
