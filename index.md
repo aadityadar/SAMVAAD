@@ -39,6 +39,8 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 | 12 May 2022 | 6 PM IST | [Sutirtha Sinha Roy](#) (World Bank) |  [Poverty in India Has Declined over the Last Decade But Not As Much As Previously Thought](http://hdl.handle.net/10986/37273) (joint with [Roy van der Weide](https://sites.google.com/site/decrgroyvanderweide))
 | 16 June 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | TBA
 
+Note: There will be no seminar in July in lieu of [SERI's annual workshop](https://seriindiadotorg.wordpress.com/annual-workshop/).
+
 ### Details 
 
 - _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
