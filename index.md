@@ -43,7 +43,7 @@ Note: There will be no seminar in July in lieu of [SERI's annual workshop](https
 
 ### Details 
 
-- _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers, in the spirit of having an open dialogue and discussion. 
+- _Format:_ Speakers will have 45 mins to present their research, followed by 30 mins of questions and answers to facilitate an open dialogue and discussion.
   - While the speaker is presenting, only clarifying questions may be asked in the chat window. Co-authors should feel free to answer questions in the chat and if a question is unanswered (or if there is no co-author), the moderator will interject the presenter to ask the question. 
   - After the presentation is over, the floor will be open for the audience. Participants are requested to use the ‘raise hand’ feature on Zoom to queue up for comments.
 
