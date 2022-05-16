@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 16 June 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | TBA
+| 16 June 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | Women as teammates: Gender balance in village councils in India
 
 Note: There will be no seminar in July in lieu of [SERI's annual workshop](https://seriindiadotorg.wordpress.com/annual-workshop/).
 
