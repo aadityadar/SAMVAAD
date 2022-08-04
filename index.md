@@ -1,6 +1,6 @@
 ## Seminar in Applied Microeconomics - Virtual Assembly and Discussion 
 
-SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. The online seminars are coordinated by [Sabyasachi Das](https://dassabyasachi.wordpress.com/) and [Aaditya Dar](http://aadityadar.com) and conducted once a month in association with the [Society for Economic Research in India (SERI)](http://seri-india.org/). To receive an invite, please [sign up for the mailing list.](https://forms.gle/JsXhRoNskxuKQuk59)
+SAMVAAD is a platform for faculty and researchers in India to present their work and get feedback from the applied micro community. The online seminars are coordinated by [Sabyasachi Das](https://dassabyasachi.wordpress.com/) and [Aaditya Dar](http://aadityadar.com) and conducted once a month in association with the [Society for Economic Research in India (SERI)](http://seri.network/). To receive an invite, please [sign up for the mailing list.](https://forms.gle/JsXhRoNskxuKQuk59)
 
 ### Upcoming SAMVAADs
 
@@ -27,7 +27,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
     <td><b>Paper</b></td>
   </tr>
   <tr>
-    <td colspan="3">No seminar in July in lieu of <a href = "https://seri-india.org/annual-workshop/">SERI's annual workshop</a>. <a href = "https://seriindiadotorg.files.wordpress.com/2021/07/seriworkshop2021_schedule-1.pdf">Program</a>. <a href = "https://zoom.us/webinar/register/WN_RjtSqeQKSaWwiMdnSi6l9A">Registration</a>.</td>
+    <td colspan="3">No seminar in July in lieu of <a href = "https://seri.network/annual-workshop/">SERI's annual workshop</a>. <a href = "https://seriindiadotorg.files.wordpress.com/2021/07/seriworkshop2021_schedule-1.pdf">Program</a>. <a href = "https://zoom.us/webinar/register/WN_RjtSqeQKSaWwiMdnSi6l9A">Registration</a>.</td>
   </tr>
 </table>
 -->
@@ -36,9 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 16 June 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | [Women as teammates: Gender balance in village councils in India](https://drive.google.com/file/d/1zNCSZNw2SZci1Gt1OjM6o7xQ4E_X7AJB/view) 
-
-Note: There will be no seminar in July in lieu of [SERI's annual workshop](https://seriindiadotorg.wordpress.com/annual-workshop/).
+| 18 August 2022 | 6 PM IST | [Kalyan  Kolukuluri](https://iimv.irins.org/profile/123831) (IIM Visakhapatnam) | [TBA](#) 
 
 ### Details 
 
@@ -68,6 +66,7 @@ Note: There will be no seminar in July in lieu of [SERI's annual workshop](https
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
+| 16 June 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | [Women as teammates: Gender balance in village councils in India](https://drive.google.com/file/d/1zNCSZNw2SZci1Gt1OjM6o7xQ4E_X7AJB/view) 
 | 12 May 2022 | 6 PM IST | [Sutirtha Sinha Roy](#) (World Bank) |  [Poverty in India Has Declined over the Last Decade But Not As Much As Previously Thought](http://hdl.handle.net/10986/37273) (joint with [Roy van der Weide](https://sites.google.com/site/decrgroyvanderweide))
 | 14 Apr 2022 | 6 PM IST | [Kalyani Raghunathan](https://sites.google.com/view/kalyani-raghunathan/home) (IFPRI) | [Post-program impacts of transfer programs on child development: Experimental evidence from Bangladesh](https://www.ifpri.org/publication/post-program-impacts-transfer-programs-child-development-experimental-evidence) (joint with [Akhter Ahmed](https://www.ifpri.org/profile/akhter-ahmed), [Jena Derakhshani Hamadani](https://www.icddrb.org/index.php?option=com_content&view=article&id=4223&Itemid=2202&staffID=215), Md. Zahidul Hassan, [Melissa Hidrobo](https://www.ifpri.org/profile/melissa-hidrobo), [John F. Hoddinott](https://economics.cornell.edu/john-hoddinott), [Bastien Koch](https://www.ifpri.org/profile/bastien-koch) and [Shalini Roy](https://www.ifpri.org/profile/shalini-roy))
 | 24 Mar 2022 | 6 PM IST | [Sowmya Dhanaraj](https://sites.google.com/view/sowmyadhananraj/) (Madras School of Economics) | [Money and more: Impact of conditional cash plus health advice on 'untargeted' child health outcomes in India](https://drive.google.com/drive/folders/1iXBfa3xAjsgds-ba-EoXJxWoeLS5LZLZ?usp=sharing) (joint with [Vidya Mahambare](https://www.greatlakes.edu.in/chennai/faculty/vidya-mahambare) and Vibhu Jain)
@@ -90,7 +89,7 @@ Note: There will be no seminar in July in lieu of [SERI's annual workshop](https
 
 The weekly edition of SAMVAADs (conducted between May and July 2020) were held on Friday mornings from 10 AM to 11:15 AM IST.
 
-<!--- Starting May 2020, the online seminars were conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD concluded on July 24, 2020. Going forward, SAMVAADs will be conducted once a month in association with [Society for Economic Research in India (SERI)](http://seri-india.org/). -->
+<!--- Starting May 2020, the online seminars were conducted on Zoom every Friday from 10 AM to 11:15 AM IST. The weekly edition of SAMVAAD concluded on July 24, 2020. Going forward, SAMVAADs will be conducted once a month in association with [Society for Economic Research in India (SERI)](http://seri.network/). -->
 
 | Date | Speaker | Paper |
 | ---- | ------- | ----- | 
@@ -108,5 +107,5 @@ The weekly edition of SAMVAADs (conducted between May and July 2020) were held o
 | May 8 | [Tanika Chakraborty](https://www.iimcal.ac.in/users/tanika) (IIM Calcutta) | [Caste, Courts and Business](https://www.dropbox.com/s/0qbjshi7hzkp0jz/Abstract_Webinar_Tanika.pdf?dl=0) (joint with [Sarani Saha](https://www.iitk.ac.in/new/sarani-saha), Divya Shukla, [Anirban Mukherjee](https://sites.google.com/view/anirbanm/home)) | 
 | May 1 | [Garima Agarwal](https://sites.google.com/view/garima-agarwal) (DSE) | Improving school attendance for adolescent girls - Evidence from a policy experiment in Delhi's public schools |
 
-Note: There was no talk in December 2020 and December 2021 due to conflicts with winter conferences in India. There was no talk in July 2021 to avoid conflict with [SERI's annual workshop](https://seriindiadotorg.wordpress.com/annual-workshop/). There was also no talk in Jan 2022 on account of the job market season in India. 
+Note: There was no talk in December 2020 and December 2021 due to conflicts with winter conferences in India. There was no talk in July 2021 and July 2022 to avoid conflict with [SERI's annual workshop](https://seri.network/events/). There was also no talk in Jan 2022 on account of the job market season in India. 
 
