@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 18 August 2022 | 6 PM IST | [Kalyan  Kolukuluri](https://iimv.irins.org/profile/123831) (IIM Visakhapatnam) | [TBA](#) 
+| 18 August 2022 | 6 PM IST | [Kalyan  Kolukuluri](https://talktokalyan.github.io/) (IIM Visakhapatnam) | [Role of Background Risk and Social Health Insurance in Informal Credit Markets](https://talktokalyan.github.io/files/arisan-draft.pdf) (joint with [Jong Kook Shin](https://sejong.korea.ac.kr/user/prfList.do?command=view&siteId=caas&prfId=127&prfSeq=770&column=&search=&page=1&parent=&id=caas_020100000000), [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian) and [Shailender Swaminathan](https://saiuniversity.edu.in/team/shailender-swaminathan/))
 
 ### Details 
 
