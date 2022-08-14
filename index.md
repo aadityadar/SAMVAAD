@@ -36,7 +36,10 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 18 August 2022 | 6 PM IST | [Kalyan  Kolukuluri](https://talktokalyan.github.io/) (IIM Visakhapatnam) | [Role of Background Risk and Social Health Insurance in Informal Credit Markets](https://talktokalyan.github.io/files/arisan-draft.pdf) (joint with [Jong Kook Shin](https://sejong.korea.ac.kr/user/prfList.do?command=view&siteId=caas&prfId=127&prfSeq=770&column=&search=&page=1&parent=&id=caas_020100000000), [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian) and [Shailender Swaminathan](https://saiuniversity.edu.in/team/shailender-swaminathan/))
+| 18 Aug 2022 | 6 PM IST | [Kalyan  Kolukuluri](https://talktokalyan.github.io/) (IIM Visakhapatnam) | [Role of Background Risk and Social Health Insurance in Informal Credit Markets](https://talktokalyan.github.io/files/arisan-draft.pdf) (joint with [Jong Kook Shin](https://sejong.korea.ac.kr/user/prfList.do?command=view&siteId=caas&prfId=127&prfSeq=770&column=&search=&page=1&parent=&id=caas_020100000000), [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian) and [Shailender Swaminathan](https://saiuniversity.edu.in/team/shailender-swaminathan/))
+Sep 2022 | 6 PM IST | TBD | TBD
+Oct 2022 | 6 PM IST | TBD | TBD
+17 Nov 2022 | 6 PM IST | [Sutirtha Bandyopadhyay](https://www.sutirthab.org/) (IIM  Indore) | TBD
 
 ### Details 
 
@@ -66,7 +69,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
-| 16 June 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | [Women as teammates: Gender balance in village councils in India](https://drive.google.com/file/d/1zNCSZNw2SZci1Gt1OjM6o7xQ4E_X7AJB/view) 
+| 16 Jun 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | [Women as teammates: Gender balance in village councils in India](https://drive.google.com/file/d/1zNCSZNw2SZci1Gt1OjM6o7xQ4E_X7AJB/view) 
 | 12 May 2022 | 6 PM IST | [Sutirtha Sinha Roy](#) (World Bank) |  [Poverty in India Has Declined over the Last Decade But Not As Much As Previously Thought](http://hdl.handle.net/10986/37273) (joint with [Roy van der Weide](https://sites.google.com/site/decrgroyvanderweide))
 | 14 Apr 2022 | 6 PM IST | [Kalyani Raghunathan](https://sites.google.com/view/kalyani-raghunathan/home) (IFPRI) | [Post-program impacts of transfer programs on child development: Experimental evidence from Bangladesh](https://www.ifpri.org/publication/post-program-impacts-transfer-programs-child-development-experimental-evidence) (joint with [Akhter Ahmed](https://www.ifpri.org/profile/akhter-ahmed), [Jena Derakhshani Hamadani](https://www.icddrb.org/index.php?option=com_content&view=article&id=4223&Itemid=2202&staffID=215), Md. Zahidul Hassan, [Melissa Hidrobo](https://www.ifpri.org/profile/melissa-hidrobo), [John F. Hoddinott](https://economics.cornell.edu/john-hoddinott), [Bastien Koch](https://www.ifpri.org/profile/bastien-koch) and [Shalini Roy](https://www.ifpri.org/profile/shalini-roy))
 | 24 Mar 2022 | 6 PM IST | [Sowmya Dhanaraj](https://sites.google.com/view/sowmyadhananraj/) (Madras School of Economics) | [Money and more: Impact of conditional cash plus health advice on 'untargeted' child health outcomes in India](https://drive.google.com/drive/folders/1iXBfa3xAjsgds-ba-EoXJxWoeLS5LZLZ?usp=sharing) (joint with [Vidya Mahambare](https://www.greatlakes.edu.in/chennai/faculty/vidya-mahambare) and Vibhu Jain)
