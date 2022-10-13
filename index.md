@@ -36,9 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-22 Sep 2022 | 6 PM IST | [Deepti Goel](https://azimpremjiuniversity.edu.in/SitePages/deepti-goel.aspx) (APU) | [Did the nation-wide implementation of e-FMS in MGNREGS result in reduced expenditures? A re-examination of the evidence](https://ideas.repec.org/p/zbw/glodps/1146.html) (joint with [J.V. Meenakshi](http://econdse.org/meena/) and [Zaeen de Souza](https://github.com/zaeendesouza))
-13 Oct 2022 | 6 PM IST | [Anand Shrivastava](https://sites.google.com/site/anandshrivastava1984/home) (APU) | Friends in high places: Social connections and distress borrowing during Covid-19 (joint with [Girish Bahal](https://www.girishbahal.com/) and [Zaeen de Souza](https://github.com/zaeendesouza))
-17 Nov 2022 | 6 PM IST | [Sutirtha Bandyopadhyay](https://www.sutirthab.org/) (IIM  Indore) | TBD
+17 Nov 2022 | 6 PM IST | [Sutirtha Bandyopadhyay](https://www.sutirthab.org/) (IIM  Indore) | Widowhood and Consumption of Private Assignable Goods: The Role of Socio-Economic Status, Rainfall Shocks and Historical Institutions (joint with [Bipasha Maity](https://sites.google.com/site/bipeco07))
 
 ### Details 
 
@@ -68,6 +66,8 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
+13 Oct 2022 | 6 PM IST | [Anand Shrivastava](https://sites.google.com/site/anandshrivastava1984/home) (APU) | Friends in high places: Social connections and distress borrowing during Covid-19 (joint with [Girish Bahal](https://www.girishbahal.com/) and [Zaeen de Souza](https://github.com/zaeendesouza))
+22 Sep 2022 | 6 PM IST | [Deepti Goel](https://azimpremjiuniversity.edu.in/SitePages/deepti-goel.aspx) (APU) | [Did the nation-wide implementation of e-FMS in MGNREGS result in reduced expenditures? A re-examination of the evidence](https://ideas.repec.org/p/zbw/glodps/1146.html) (joint with [J.V. Meenakshi](http://econdse.org/meena/) and [Zaeen de Souza](https://github.com/zaeendesouza))
 | 18 Aug 2022 | 6 PM IST | [Kalyan  Kolukuluri](https://talktokalyan.github.io/) (IIM Visakhapatnam) | [Role of Background Risk and Social Health Insurance in Informal Credit Markets](https://talktokalyan.github.io/files/arisan-draft.pdf) (joint with [Jong Kook Shin](https://sejong.korea.ac.kr/user/prfList.do?command=view&siteId=caas&prfId=127&prfSeq=770&column=&search=&page=1&parent=&id=caas_020100000000), [Chetan Subramanian](https://www.iimb.ac.in/user/147/chetan-subramanian) and [Shailender Swaminathan](https://saiuniversity.edu.in/team/shailender-swaminathan/))
 | 16 Jun 2022 | 6 PM IST | [Deepak Singhania](https://sites.google.com/view/deepak-singhania) (IIT Gandhinagar) | [Women as teammates: Gender balance in village councils in India](https://drive.google.com/file/d/1zNCSZNw2SZci1Gt1OjM6o7xQ4E_X7AJB/view) 
 | 12 May 2022 | 6 PM IST | [Sutirtha Sinha Roy](#) (World Bank) |  [Poverty in India Has Declined over the Last Decade But Not As Much As Previously Thought](http://hdl.handle.net/10986/37273) (joint with [Roy van der Weide](https://sites.google.com/site/decrgroyvanderweide))
