@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-17 Nov 2022 | 6 PM IST | [Sutirtha Bandyopadhyay](https://www.sutirthab.org/) (IIM  Indore) | Widowhood and Consumption of Private Assignable Goods: The Role of Socio-Economic Status, Rainfall Shocks and Historical Institutions (joint with [Bipasha Maity](https://sites.google.com/site/bipeco07))
+17 Nov 2022 | 6 PM IST | [Sutirtha Bandyopadhyay](https://www.sutirthab.org/) (IIM  Indore) | Widowhood and Intra-Household Resource Allocation in India (joint with [Bipasha Maity](https://sites.google.com/site/bipeco07))
 
 ### Details 
 
