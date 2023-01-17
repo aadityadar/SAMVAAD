@@ -36,9 +36,9 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-16 Feb 2023 | 6 PM IST | [Bharti Nandwani](https://sites.google.com/a/snu.edu.in/bhartinandwani/) | TBD
-16 Mar 2023 | 6 PM IST | [Nandana Sengupta](https://sites.google.com/site/nandanasenguptahome/) | TBD
-Apr 2023 | 6 PM IST | [Pritha Dev](https://sites.google.com/site/prithadev/) | TBD
+16 Feb 2023 | 6 PM IST | [Bharti Nandwani](https://sites.google.com/a/snu.edu.in/bhartinandwani/) (IGIDR) | TBD
+16 Mar 2023 | 6 PM IST | [Nandana Sengupta](https://sites.google.com/site/nandanasenguptahome/) (IIT Delhi) | TBD
+Apr 2023 | 6 PM IST | [Pritha Dev](https://sites.google.com/site/prithadev/) (IIM Ahmedabad) | TBD
 
 
 ### Details 
