@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-13 Apr 2023 | 6 PM IST | [Pritha Dev](https://sites.google.com/site/prithadev/) (IIM Ahmedabad) | Neighborhood composition and Jati Homophily: Evidence from Rural India (joint with [Hari K. Nagarajan](https://www.iima.ac.in/faculty-research/faculty-directory/Hari-K-Nagarajan), [Abhishek Tripathy](https://sites.google.com/view/abhishek-tripathy/home))
+13 Apr 2023 | 6 PM IST | [Pritha Dev](https://sites.google.com/site/prithadev/) (IIM Ahmedabad) | [Neighborhood composition and Jati Homophily: Evidence from Rural India](/assets/2023-04-13-Pritha-Dev.pdf) (joint with [Hari K. Nagarajan](https://www.iima.ac.in/faculty-research/faculty-directory/Hari-K-Nagarajan), [Abhishek Tripathy](https://sites.google.com/view/abhishek-tripathy/home))
 
 
 ### Details 
