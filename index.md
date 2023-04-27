@@ -36,8 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-13 Apr 2023 | 6 PM IST | [Pritha Dev](https://sites.google.com/site/prithadev/) (IIM Ahmedabad) | [Neighborhood composition and Jati Homophily: Evidence from Rural India](/assets/2023-04-13-Pritha-Dev.pdf) (joint with [Hari K. Nagarajan](https://www.iima.ac.in/faculty-research/faculty-directory/Hari-K-Nagarajan), [Abhishek Tripathy](https://sites.google.com/view/abhishek-tripathy/home))
-
+25 May 2023 | 6 PM IST | [Tanu Gupta](https://sites.google.com/view/tanugupta) (ISI Delhi) | TBD
 
 ### Details 
 
@@ -67,6 +66,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
+13 Apr 2023 | 6 PM IST | [Pritha Dev](https://sites.google.com/site/prithadev/) (IIM Ahmedabad) | [Neighborhood composition and Jati Homophily: Evidence from Rural India](/assets/2023-04-13-Pritha-Dev.pdf) (joint with [Hari K. Nagarajan](https://www.iima.ac.in/faculty-research/faculty-directory/Hari-K-Nagarajan), [Abhishek Tripathy](https://sites.google.com/view/abhishek-tripathy/home))
 16 Mar 2023 | 6 PM IST | [Nandana Sengupta](https://sites.google.com/site/nandanasenguptahome/) (IIT Delhi) | [In her Shoes: Gendered Labelling in Crowdsourced Safety Perceptions Data](/assets/2023-03-16-Nandana-Sengupta.pdf)
 16 Feb 2023 | 6 PM IST | [Bharti Nandwani](https://sites.google.com/a/snu.edu.in/bhartinandwani/) (IGIDR) | [The Long-Term Effect of British Colonialism on Women Empowerment in India](/assets/2023-02-16-Bharti-Nandwani.pdf) (joint with [Punarjit Roychowdhury](https://punarjitroyc.weebly.com/))
 17 Nov 2022 | 6 PM IST | [Sutirtha Bandyopadhyay](https://www.sutirthab.org/) (IIM  Indore) | [Widowhood and Intra-Household Resource Allocation in India](/assets/2022-11-17-Sutirtha-Bandyopadhyay.pdf) (joint with [Bipasha Maity](https://sites.google.com/site/bipeco07))
