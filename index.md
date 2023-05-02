@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-25 May 2023 | 6 PM IST | [Tanu Gupta](https://sites.google.com/view/tanugupta) (ISI Delhi) | TBD
+25 May 2023 | 6 PM IST | [Tanu Gupta](https://sites.google.com/view/tanugupta) (ISI Delhi) | Caste fractionalization, social expectations, and improved sanitation practices: Evidence from India (joint with [Upasak Das](https://sites.google.com/site/upasakdas/), Sania Ashraf, and [Cristina Bicchieri](https://philosophy.sas.upenn.edu/people/cristina-bicchieri)
 
 ### Details 
 
