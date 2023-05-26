@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-22 June 2023 | 6 PM IST | [Disha Gupta](https://sites.google.com/view/dishagupta) (IGIDR) | 
+22 June 2023 | 6 PM IST | [Disha Gupta](https://sites.google.com/view/dishagupta) (IGIDR) | TBD
 
 
 ### Details 
