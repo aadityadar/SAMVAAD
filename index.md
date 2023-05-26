@@ -36,7 +36,8 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-25 May 2023 | 6 PM IST | [Tanu Gupta](https://sites.google.com/view/tanugupta) (ISI Delhi) | [Caste fractionalization, social expectations, and improved sanitation practices: Evidence from India](https://www.dropbox.com/s/d25nv08gzkf2ycv/Earning%20dividends%20from%20%E2%80%9Cjati%E2%80%9D%20fractionalization.docx?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/), Sania Ashraf, and [Cristina Bicchieri](https://philosophy.sas.upenn.edu/people/cristina-bicchieri))
+22 June 2023 | 6 PM IST | [Disha Gupta](https://sites.google.com/view/dishagupta) (IGIDR) | 
+
 
 ### Details 
 
@@ -66,6 +67,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
+25 May 2023 | 6 PM IST | [Tanu Gupta](https://sites.google.com/view/tanugupta) (ISI Delhi) | [Caste fractionalization, social expectations, and improved sanitation practices: Evidence from India](https://www.dropbox.com/s/d25nv08gzkf2ycv/Earning%20dividends%20from%20%E2%80%9Cjati%E2%80%9D%20fractionalization.docx?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/), Sania Ashraf, and [Cristina Bicchieri](https://philosophy.sas.upenn.edu/people/cristina-bicchieri))
 13 Apr 2023 | 6 PM IST | [Pritha Dev](https://sites.google.com/site/prithadev/) (IIM Ahmedabad) | [Neighborhood composition and Jati Homophily: Evidence from Rural India](/assets/2023-04-13-Pritha-Dev.pdf) (joint with [Hari K. Nagarajan](https://www.iima.ac.in/faculty-research/faculty-directory/Hari-K-Nagarajan), [Abhishek Tripathy](https://sites.google.com/view/abhishek-tripathy/home))
 16 Mar 2023 | 6 PM IST | [Nandana Sengupta](https://sites.google.com/site/nandanasenguptahome/) (IIT Delhi) | [In her Shoes: Gendered Labelling in Crowdsourced Safety Perceptions Data](/assets/2023-03-16-Nandana-Sengupta.pdf)
 16 Feb 2023 | 6 PM IST | [Bharti Nandwani](https://sites.google.com/a/snu.edu.in/bhartinandwani/) (IGIDR) | [The Long-Term Effect of British Colonialism on Women Empowerment in India](/assets/2023-02-16-Bharti-Nandwani.pdf) (joint with [Punarjit Roychowdhury](https://punarjitroyc.weebly.com/))
