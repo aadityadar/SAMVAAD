@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-22 June 2023 | 6 PM IST | [Disha Gupta](https://sites.google.com/view/dishagupta) (IGIDR) | TBD
+29 June 2023 | 6 PM IST | [Disha Gupta](https://sites.google.com/view/dishagupta) (IGIDR) | [Pricing Farm Electricity, Water Use and Efficiency: The Case of Paddy Cultivation in Punjab](/assets/2023-06-29-Disha-Gupta.pdf)
 
 
 ### Details 
