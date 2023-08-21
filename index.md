@@ -36,8 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-24 Aug 2023 | 6 PM IST | [Subrato Banerjee](mailto:subrato.banerjee@iitb.ac.in) (IIT Bombay) | TBD
-
+24 Aug 2023 | 6 PM IST | [Subrato Banerjee](https://www.economics.iitb.ac.in/subrato.html) (IIT Bombay) |  Doubt: Insights from a cross-cultural experiment (joint with [Shilpi Mukherjee](https://www.keystone.ai/our-people/shilpi-mukherjee/)) |
 
 ### Details 
 
