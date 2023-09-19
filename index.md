@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-28 Sep 2023 | 6 PM IST | [Shekhar Tomar](https://tomarshekhar.com/) (ISB) |  Trumping Immigration: Visa Uncertainty and Jobs Relocation (joint with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/) and [Kanika Mahajan](https://sites.google.com/site/ritamchaurey/)) |
+28 Sep 2023 | 6 PM IST | [Shekhar Tomar](https://tomarshekhar.com/) (ISB) |  [Trumping Immigration: Visa Uncertainty and Jobs Relocation](/assets/2023-09-28-Shekhar-Tomar.pdf) (joint with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/) and [Kanika Mahajan](https://sites.google.com/site/ritamchaurey/)) |
 
 ### Details 
 
