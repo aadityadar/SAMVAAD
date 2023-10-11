@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-28 Sep 2023 | 6 PM IST | [Shekhar Tomar](https://tomarshekhar.com/) (ISB) |  [Trumping Immigration: Visa Uncertainty and Jobs Relocation](/assets/2023-09-28-Shekhar-Tomar.pdf) (joint with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/) and [Kanika Mahajan](https://sites.google.com/site/ritamchaurey/)) |
+26 Oct 2023 | 6 PM IST | [Sumit Mishra](https://sumitrmishra.github.io/) (Krea) |  TBA |
 
 ### Details 
 
@@ -66,6 +66,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
+28 Sep 2023 | 6 PM IST | [Shekhar Tomar](https://tomarshekhar.com/) (ISB) |  [Trumping Immigration: Visa Uncertainty and Jobs Relocation](/assets/2023-09-28-Shekhar-Tomar.pdf) (joint with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/) and [Kanika Mahajan](https://sites.google.com/site/ritamchaurey/)) |
 24 Aug 2023 | 6 PM IST | [Subrato Banerjee](https://www.economics.iitb.ac.in/subrato.html) (IIT Bombay) |  Doubt: Insights from a cross-cultural experiment (joint with [Shilpi Mukherjee](https://www.keystone.ai/our-people/shilpi-mukherjee/)) |
 29 Jun 2023 | 6 PM IST | [Disha Gupta](https://sites.google.com/view/dishagupta) (IGIDR) | [Pricing Farm Electricity, Water Use and Efficiency: The Case of Paddy Cultivation in Punjab](/assets/2023-06-29-Disha-Gupta.pdf)
 25 May 2023 | 6 PM IST | [Tanu Gupta](https://sites.google.com/view/tanugupta) (ISI Delhi) | [Caste fractionalization, social expectations, and improved sanitation practices: Evidence from India](https://www.dropbox.com/s/d25nv08gzkf2ycv/Earning%20dividends%20from%20%E2%80%9Cjati%E2%80%9D%20fractionalization.docx?dl=0) (joint with [Upasak Das](https://sites.google.com/site/upasakdas/), Sania Ashraf, and [Cristina Bicchieri](https://philosophy.sas.upenn.edu/people/cristina-bicchieri))
