@@ -36,7 +36,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker(s) | Paper |
 | ---- | ---- |  ------- | ----- | 
-26 Oct 2023 | 6 PM IST | [Sumit Mishra](https://sumitrmishra.github.io/) (Krea) |  TBA |
+23 Nov 2023 | 6 PM IST | [Akhil Ilango](https://akhililango.github.io/) | Social Norms, Market Access, and Firm Size (joint with [Sampreet Goraya](https://sites.google.com/view/econsampreet))
 
 ### Details 
 
@@ -66,6 +66,7 @@ To receive email announcements, please [sign up](https://forms.gle/JsXhRoNskxuKQ
 
 | Date | Time |  Speaker | Paper |
 | ---- | ---- |  ------- | ----- | 
+26 Oct 2023 | 6 PM IST | [Sumit Mishra](https://sumitrmishra.github.io/) (Krea) |  Whither Persistence? (joint with [Karthik Rao Cavale](https://krea.edu.in/sias/dr-karthik-rao-cavale/)) |
 28 Sep 2023 | 6 PM IST | [Shekhar Tomar](https://tomarshekhar.com/) (ISB) |  [Trumping Immigration: Visa Uncertainty and Jobs Relocation](/assets/2023-09-28-Shekhar-Tomar.pdf) (joint with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/) and [Kanika Mahajan](https://sites.google.com/site/ritamchaurey/)) |
 24 Aug 2023 | 6 PM IST | [Subrato Banerjee](https://www.economics.iitb.ac.in/subrato.html) (IIT Bombay) |  Doubt: Insights from a cross-cultural experiment (joint with [Shilpi Mukherjee](https://www.keystone.ai/our-people/shilpi-mukherjee/)) |
 29 Jun 2023 | 6 PM IST | [Disha Gupta](https://sites.google.com/view/dishagupta) (IGIDR) | [Pricing Farm Electricity, Water Use and Efficiency: The Case of Paddy Cultivation in Punjab](/assets/2023-06-29-Disha-Gupta.pdf)
